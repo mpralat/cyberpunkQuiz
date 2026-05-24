@@ -1,0 +1,597 @@
+{
+  "questions": [
+    {
+      "text": "Pytanie 1",
+      "answers": [
+        { "text": "Odpowiedź A", "characterClass": "solo" },
+        { "text": "Odpowiedź B", "characterClass": "netrunner" },
+        { "text": "Odpowiedź C", "characterClass": "fixer" },
+        { "text": "Odpowiedź D", "characterClass": "rockerboy" }
+      ]
+    },
+    {
+      "text": "Pytanie 2",
+      "answers": [
+        { "text": "Odpowiedź A", "characterClass": "tech" },
+        { "text": "Odpowiedź B", "characterClass": "media" },
+        { "text": "Odpowiedź C", "characterClass": "rockerboy" },
+        { "text": "Odpowiedź D", "characterClass": "lawman" }
+      ]
+    },
+    {
+      "text": "Pytanie 3",
+      "answers": [
+        { "text": "Odpowiedź A", "characterClass": "netrunner" },
+        { "text": "Odpowiedź B", "characterClass": "solo" },
+        { "text": "Odpowiedź C", "characterClass": "media" },
+        { "text": "Odpowiedź D", "characterClass": "tech" }
+      ]
+    }
+  ],
+  "tiebreakerQuestions": [
+    {
+      "text": "Pytanie rozstrzygające (remis między solo i netrunner)",
+      "answers": [
+        { "text": "Odpowiedź A", "characterClass": "solo" },
+        { "text": "Odpowiedź B", "characterClass": "netrunner" },
+        { "text": "Odpowiedź C", "characterClass": "solo" },
+        { "text": "Odpowiedź D", "characterClass": "netrunner" }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między solo i tech)",
+      "answers": [
+        { "text": "Odpowiedź A", "characterClass": "solo" },
+        { "text": "Odpowiedź B", "characterClass": "tech" },
+        { "text": "Odpowiedź C", "characterClass": "solo" },
+        { "text": "Odpowiedź D", "characterClass": "tech" }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między solo i rockerboy)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "rockerboy"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "rockerboy"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między solo i fixer)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "fixer"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "fixer"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między solo i nomad)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "nomad"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "nomad"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między solo i media)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "media"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "media"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między solo i lawman)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "lawman"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "lawman"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między netrunner i tech)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "tech"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "tech"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między netrunner i rockerboy)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "rockerboy"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "rockerboy"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między netrunner i fixer)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "fixer"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "fixer"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między netrunner i nomad)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "nomad"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "nomad"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między netrunner i media)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "media"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "media"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między netrunner i lawman)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "lawman"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "lawman"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między tech i rockerboy)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "tech"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "rockerboy"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "tech"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "rockerboy"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między tech i fixer)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "tech"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "fixer"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "tech"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "fixer"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między tech i nomad)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "tech"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "nomad"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "tech"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "nomad"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między tech i media)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "tech"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "media"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "tech"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "media"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między tech i lawman)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "tech"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "lawman"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "tech"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "lawman"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między rockerboy i fixer)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "rockerboy"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "fixer"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "rockerboy"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "fixer"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między rockerboy i nomad)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "rockerboy"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "nomad"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "rockerboy"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "nomad"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między rockerboy i media)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "rockerboy"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "media"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "rockerboy"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "media"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między rockerboy i lawman)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "rockerboy"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "lawman"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "rockerboy"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "lawman"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między fixer i nomad)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "fixer"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "nomad"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "fixer"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "nomad"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między fixer i media)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "fixer"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "media"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "fixer"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "media"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między fixer i lawman)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "fixer"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "lawman"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "fixer"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "lawman"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między nomad i media)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "nomad"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "media"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "nomad"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "media"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między nomad i lawman)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "nomad"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "lawman"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "nomad"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "lawman"
+        }
+      ]
+    },
+    {
+      "text": "Pytanie rozstrzygające (remis między media i lawman)",
+      "answers": [
+        {
+          "text": "Odpowiedź A",
+          "characterClass": "media"
+        },
+        {
+          "text": "Odpowiedź B",
+          "characterClass": "lawman"
+        },
+        {
+          "text": "Odpowiedź C",
+          "characterClass": "media"
+        },
+        {
+          "text": "Odpowiedź D",
+          "characterClass": "lawman"
+        }
+      ]
+    }
+  ]
+}

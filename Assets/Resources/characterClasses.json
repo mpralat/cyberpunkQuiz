@@ -1,0 +1,44 @@
+{
+  "characterClasses": [
+    {
+      "Name": "Solo",
+      "Class": "solo",
+      "Description": "Opis Solo"
+    },
+    {
+      "Name": "Netrunner",
+      "Class": "netrunner",
+      "Description": "Opis netrunner"
+    },
+    {
+      "Name": "Techie",
+      "Class": "tech",
+      "Description": "Opis tech"
+    },
+    {
+      "Name": "Rockerboy",
+      "Class": "rockerboy",
+      "Description": "Opis rockerboy"
+    },
+    {
+      "Name": "Fixer",
+      "Class": "fixer",
+      "Description": "Opis fixer"
+    },
+    {
+      "Name": "Nomad",
+      "Class": "nomad",
+      "Description": "Opis nomad"
+    },
+    {
+      "Name": "Media",
+      "Class": "media",
+      "Description": "Opis media"
+    },
+    {
+      "Name": "Lawman",
+      "Class": "lawman",
+      "Description": "Opis lawman"
+    }
+  ]
+}

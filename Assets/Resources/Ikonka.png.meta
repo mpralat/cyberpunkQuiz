@@ -1,0 +1,4784 @@
+fileFormatVersion: 2
+guid: f78e1fdcd245f41d6af582512bc3acfe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2460357368500611768
+    second: Ikonka_0
+  - first:
+      213: -5608649056699734287
+    second: Ikonka_1
+  - first:
+      213: -6287925998077913272
+    second: Ikonka_2
+  - first:
+      213: -583521626650549951
+    second: Ikonka_3
+  - first:
+      213: 496437484209420441
+    second: Ikonka_4
+  - first:
+      213: -7075191700327149457
+    second: Ikonka_5
+  - first:
+      213: -3077259609644194078
+    second: Ikonka_6
+  - first:
+      213: -4839541088349574307
+    second: Ikonka_7
+  - first:
+      213: -5876979232110132154
+    second: Ikonka_8
+  - first:
+      213: 8914954141980398523
+    second: Ikonka_9
+  - first:
+      213: 4005590996028216695
+    second: Ikonka_10
+  - first:
+      213: -221605558457761575
+    second: Ikonka_11
+  - first:
+      213: 1640214955284691078
+    second: Ikonka_12
+  - first:
+      213: -573382825019885433
+    second: Ikonka_13
+  - first:
+      213: 4212462493279988323
+    second: Ikonka_14
+  - first:
+      213: 4824062548917212165
+    second: Ikonka_15
+  - first:
+      213: 1742710969173041187
+    second: Ikonka_16
+  - first:
+      213: 400874980146343449
+    second: Ikonka_17
+  - first:
+      213: -5546173069747781503
+    second: Ikonka_18
+  - first:
+      213: -5975325428815048643
+    second: Ikonka_19
+  - first:
+      213: 3765525309264266445
+    second: Ikonka_20
+  - first:
+      213: 3619309503360950891
+    second: Ikonka_21
+  - first:
+      213: 3342278061658534269
+    second: Ikonka_22
+  - first:
+      213: -5103681689866244934
+    second: Ikonka_23
+  - first:
+      213: -62733298305132376
+    second: Ikonka_24
+  - first:
+      213: 3744761814868425941
+    second: Ikonka_25
+  - first:
+      213: -1457277548545831042
+    second: Ikonka_26
+  - first:
+      213: 5197685263825923044
+    second: Ikonka_27
+  - first:
+      213: 7887592896602643170
+    second: Ikonka_28
+  - first:
+      213: 7480798528799909579
+    second: Ikonka_29
+  - first:
+      213: 9099389700416790482
+    second: Ikonka_30
+  - first:
+      213: -2838711291047873551
+    second: Ikonka_31
+  - first:
+      213: 3550685439034897149
+    second: Ikonka_32
+  - first:
+      213: 7403677683770877391
+    second: Ikonka_33
+  - first:
+      213: 293244185436922164
+    second: Ikonka_34
+  - first:
+      213: 5153133508593023041
+    second: Ikonka_35
+  - first:
+      213: -1510643732437094650
+    second: Ikonka_36
+  - first:
+      213: 4999936340700979665
+    second: Ikonka_37
+  - first:
+      213: -8867836651796706637
+    second: Ikonka_38
+  - first:
+      213: -8557606660297617106
+    second: Ikonka_39
+  - first:
+      213: 3877633356116534116
+    second: Ikonka_40
+  - first:
+      213: 6125797909899822350
+    second: Ikonka_41
+  - first:
+      213: 6164308816256333675
+    second: Ikonka_42
+  - first:
+      213: 7506456918155348526
+    second: Ikonka_43
+  - first:
+      213: -1295367965141110181
+    second: Ikonka_44
+  - first:
+      213: -7385403193920577237
+    second: Ikonka_45
+  - first:
+      213: 4441973292262122608
+    second: Ikonka_46
+  - first:
+      213: -1206346071370231859
+    second: Ikonka_47
+  - first:
+      213: -8788303128688538482
+    second: Ikonka_48
+  - first:
+      213: -5643111408119992061
+    second: Ikonka_49
+  - first:
+      213: -699822506477471812
+    second: Ikonka_50
+  - first:
+      213: -8263806562920702983
+    second: Ikonka_51
+  - first:
+      213: -1545179591134554728
+    second: Ikonka_52
+  - first:
+      213: -889186429669834753
+    second: Ikonka_53
+  - first:
+      213: 277755991191477301
+    second: Ikonka_54
+  - first:
+      213: 4346424046413161296
+    second: Ikonka_55
+  - first:
+      213: -6262350609387046264
+    second: Ikonka_56
+  - first:
+      213: 2711285725883482630
+    second: Ikonka_57
+  - first:
+      213: 533319769873092602
+    second: Ikonka_58
+  - first:
+      213: 1624917499989754029
+    second: Ikonka_59
+  - first:
+      213: 6766428227318015153
+    second: Ikonka_60
+  - first:
+      213: 1493092822947642109
+    second: Ikonka_61
+  - first:
+      213: -7884146323235461409
+    second: Ikonka_62
+  - first:
+      213: -4132693107424849637
+    second: Ikonka_63
+  - first:
+      213: 3494320707657866747
+    second: Ikonka_64
+  - first:
+      213: 4324920691986256756
+    second: Ikonka_65
+  - first:
+      213: -1750079421062807377
+    second: Ikonka_66
+  - first:
+      213: -1713734745065201947
+    second: Ikonka_67
+  - first:
+      213: -5048111143494236373
+    second: Ikonka_68
+  - first:
+      213: -6537703034880099470
+    second: Ikonka_69
+  - first:
+      213: -5100680617862493902
+    second: Ikonka_70
+  - first:
+      213: -3193418733859357985
+    second: Ikonka_71
+  - first:
+      213: 6020809223808599346
+    second: Ikonka_72
+  - first:
+      213: -4756881566197638499
+    second: Ikonka_73
+  - first:
+      213: 4438765943493699873
+    second: Ikonka_74
+  - first:
+      213: 5548166428960950064
+    second: Ikonka_75
+  - first:
+      213: -101245766938164907
+    second: Ikonka_76
+  - first:
+      213: 6396658004206864860
+    second: Ikonka_77
+  - first:
+      213: -6268420098949864392
+    second: Ikonka_78
+  - first:
+      213: 1986903031173709215
+    second: Ikonka_79
+  - first:
+      213: 8332788439339688547
+    second: Ikonka_80
+  - first:
+      213: 3455372257588621575
+    second: Ikonka_81
+  - first:
+      213: -7576215145388604325
+    second: Ikonka_82
+  - first:
+      213: -2429252884251845804
+    second: Ikonka_83
+  - first:
+      213: -7792914793488136805
+    second: Ikonka_84
+  - first:
+      213: 8807236097386095096
+    second: Ikonka_85
+  - first:
+      213: -753579549891351690
+    second: Ikonka_86
+  - first:
+      213: 7848114954182619276
+    second: Ikonka_87
+  - first:
+      213: 687490786619868298
+    second: Ikonka_88
+  - first:
+      213: -3826170458087605070
+    second: Ikonka_89
+  - first:
+      213: 6779084468077881850
+    second: Ikonka_90
+  - first:
+      213: 2752033380537214162
+    second: Ikonka_91
+  - first:
+      213: 2693650235377467130
+    second: Ikonka_92
+  - first:
+      213: 363828657590107831
+    second: Ikonka_93
+  - first:
+      213: -8783240258990655310
+    second: Ikonka_94
+  - first:
+      213: -156351516433515736
+    second: Ikonka_95
+  - first:
+      213: 9152923482439168570
+    second: Ikonka_96
+  - first:
+      213: -8542162618292558553
+    second: Ikonka_97
+  - first:
+      213: 3103325788841446263
+    second: Ikonka_98
+  - first:
+      213: 6028601393724967543
+    second: Ikonka_99
+  - first:
+      213: 1229569075449922039
+    second: Ikonka_100
+  - first:
+      213: 7086378606375417961
+    second: Ikonka_101
+  - first:
+      213: 6447697794352065869
+    second: Ikonka_102
+  - first:
+      213: -3184375891565541732
+    second: Ikonka_103
+  - first:
+      213: 7430663043597986463
+    second: Ikonka_104
+  - first:
+      213: -5582114713464367316
+    second: Ikonka_105
+  - first:
+      213: -7233294031006959969
+    second: Ikonka_106
+  - first:
+      213: 4891481538865402499
+    second: Ikonka_107
+  - first:
+      213: 5637188413279971362
+    second: Ikonka_108
+  - first:
+      213: -153198455201830092
+    second: Ikonka_109
+  - first:
+      213: -6249621914287965199
+    second: Ikonka_110
+  - first:
+      213: 3468604573683722469
+    second: Ikonka_111
+  - first:
+      213: 885757995725237540
+    second: Ikonka_112
+  - first:
+      213: 8918751974855584653
+    second: Ikonka_113
+  - first:
+      213: -1720526408840866612
+    second: Ikonka_114
+  - first:
+      213: 2936518571459230224
+    second: Ikonka_115
+  - first:
+      213: -2842591108386908386
+    second: Ikonka_116
+  - first:
+      213: 7936502864353946731
+    second: Ikonka_117
+  - first:
+      213: -2352960196164937971
+    second: Ikonka_118
+  - first:
+      213: 2491934227279753500
+    second: Ikonka_119
+  - first:
+      213: 6832357056546979864
+    second: Ikonka_120
+  - first:
+      213: 8139870713700800965
+    second: Ikonka_121
+  - first:
+      213: 6644958629669778689
+    second: Ikonka_122
+  - first:
+      213: 6100273633306444469
+    second: Ikonka_123
+  - first:
+      213: 1977498677713197784
+    second: Ikonka_124
+  - first:
+      213: -6668059115524060663
+    second: Ikonka_125
+  - first:
+      213: 6216592570449460382
+    second: Ikonka_126
+  - first:
+      213: -583924605001255616
+    second: Ikonka_127
+  - first:
+      213: 2030176297677515477
+    second: Ikonka_128
+  - first:
+      213: 6213123506524957217
+    second: Ikonka_129
+  - first:
+      213: 1410658904925711067
+    second: Ikonka_130
+  - first:
+      213: 6287635078523923226
+    second: Ikonka_131
+  - first:
+      213: -2045177378188179510
+    second: Ikonka_132
+  - first:
+      213: -2905555997514334006
+    second: Ikonka_133
+  - first:
+      213: -2560986419665450173
+    second: Ikonka_134
+  - first:
+      213: 1416228918639772134
+    second: Ikonka_135
+  - first:
+      213: -7605001417022973865
+    second: Ikonka_136
+  - first:
+      213: -5074891637387476456
+    second: Ikonka_137
+  - first:
+      213: -2499994271834584622
+    second: Ikonka_138
+  - first:
+      213: -5099680651866763149
+    second: Ikonka_139
+  - first:
+      213: 892977563199694104
+    second: Ikonka_140
+  - first:
+      213: -8790378466042431460
+    second: Ikonka_141
+  - first:
+      213: 403849422965956497
+    second: Ikonka_142
+  - first:
+      213: 3304855985559507527
+    second: Ikonka_143
+  - first:
+      213: 1338020738443604393
+    second: Ikonka_144
+  - first:
+      213: 1654501345773295967
+    second: Ikonka_145
+  - first:
+      213: 6611048894951646176
+    second: Ikonka_146
+  - first:
+      213: 4588540243891694142
+    second: Ikonka_147
+  - first:
+      213: -6819326981756511371
+    second: Ikonka_148
+  - first:
+      213: 2518536297614174529
+    second: Ikonka_149
+  - first:
+      213: 471558284648256100
+    second: Ikonka_150
+  - first:
+      213: -3742351293235098426
+    second: Ikonka_151
+  - first:
+      213: -5026338971836764678
+    second: Ikonka_152
+  - first:
+      213: -8739146033520896289
+    second: Ikonka_153
+  - first:
+      213: -6608950322761579983
+    second: Ikonka_154
+  - first:
+      213: 4076793611785601245
+    second: Ikonka_155
+  - first:
+      213: 1749837840603111969
+    second: Ikonka_156
+  - first:
+      213: 7344235498622293138
+    second: Ikonka_157
+  - first:
+      213: -4261660320402713516
+    second: Ikonka_158
+  - first:
+      213: -193185279619284617
+    second: Ikonka_159
+  - first:
+      213: -4159795937087930777
+    second: Ikonka_160
+  - first:
+      213: 942431539323817810
+    second: Ikonka_161
+  - first:
+      213: -2405153658320243079
+    second: Ikonka_162
+  - first:
+      213: 6690880553003221245
+    second: Ikonka_163
+  - first:
+      213: -587448389067696054
+    second: Ikonka_164
+  - first:
+      213: -1950795036038319963
+    second: Ikonka_165
+  - first:
+      213: 6708569537623483113
+    second: Ikonka_166
+  - first:
+      213: -2414373292518154487
+    second: Ikonka_167
+  - first:
+      213: -716085260055389562
+    second: Ikonka_168
+  - first:
+      213: 5703569835240639567
+    second: Ikonka_169
+  - first:
+      213: -5371948912138033575
+    second: Ikonka_170
+  - first:
+      213: -1942272212008581075
+    second: Ikonka_171
+  - first:
+      213: 7819422822998910687
+    second: Ikonka_172
+  - first:
+      213: 1764660214851340856
+    second: Ikonka_173
+  - first:
+      213: -1448879122244274591
+    second: Ikonka_174
+  - first:
+      213: 1299441535471652666
+    second: Ikonka_175
+  - first:
+      213: 1133695515457552119
+    second: Ikonka_176
+  - first:
+      213: -4205401816932131288
+    second: Ikonka_177
+  - first:
+      213: 1900971009857625829
+    second: Ikonka_178
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ikonka_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1607
+        width: 854
+        height: 781
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba6ef9bdf1f42220800000000000000
+      internalID: 2460357368500611768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_1
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 2288
+        width: 149
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6259916631a22b0800000000000000
+      internalID: -5608649056699734287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_2
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 2340
+        width: 120
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8475f9e9e9cccb8a0800000000000000
+      internalID: -6287925998077913272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_3
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2290
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1416cb41c2ae6e7f0800000000000000
+      internalID: -583521626650549951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_4
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2073
+        width: 189
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998bd7bf243b3e600800000000000000
+      internalID: 496437484209420441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_5
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 2200
+        width: 247
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60553072aedfcd90800000000000000
+      internalID: -7075191700327149457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_6
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 2310
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6208560b06b45d0800000000000000
+      internalID: -3077259609644194078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_7
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 2298
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b2409650f76dcb0800000000000000
+      internalID: -4839541088349574307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_8
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2315
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6444ab5a686c07ea0800000000000000
+      internalID: -5876979232110132154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_9
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 2270
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb393a50f8748bb70800000000000000
+      internalID: 8914954141980398523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_10
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 2281
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775d3c1d9c7b69730800000000000000
+      internalID: 4005590996028216695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_11
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2283
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d08fdf2be2bcecf0800000000000000
+      internalID: -221605558457761575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_12
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2271
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688f605cfc633c610800000000000000
+      internalID: 1640214955284691078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_13
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 2299
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788316acb5fea08f0800000000000000
+      internalID: -573382825019885433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_14
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2267
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a2c9da15ca57a30800000000000000
+      internalID: 4212462493279988323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_15
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1606
+        width: 538
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504d97a445382f240800000000000000
+      internalID: 4824062548917212165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_16
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2166
+        width: 117
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3206cb7a46a5f2810800000000000000
+      internalID: 1742710969173041187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_17
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2257
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ee6f6aba1309500800000000000000
+      internalID: 400874980146343449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_18
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2207
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18088da5af80803b0800000000000000
+      internalID: -5546173069747781503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_19
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 2229
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30de1e5e21631da0800000000000000
+      internalID: -5975325428815048643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_20
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2231
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc480737155d14430800000000000000
+      internalID: 3765525309264266445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_21
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2207
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62660041de5a3230800000000000000
+      internalID: 3619309503360950891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_22
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2259
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71fcbd5038226e20800000000000000
+      internalID: 3342278061658534269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_23
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 2166
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc6bd42b841c29b0800000000000000
+      internalID: -5103681689866244934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_24
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2197
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a81fe6c560212ff0800000000000000
+      internalID: -62733298305132376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_25
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 2135
+        width: 111
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcfdafa70118f330800000000000000
+      internalID: 3744761814868425941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_26
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 2196
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f06c36ac5b6cbe0800000000000000
+      internalID: -1457277548545831042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_27
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 2180
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb60ac7533e12840800000000000000
+      internalID: 5197685263825923044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_28
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 2193
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea15eef2fb567d60800000000000000
+      internalID: 7887592896602643170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_29
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2094
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6226180a221d760800000000000000
+      internalID: 7480798528799909579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_30
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2098
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfd03ec8b6874e70800000000000000
+      internalID: 9099389700416790482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_31
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 2143
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f37335fe1fda98d0800000000000000
+      internalID: -2838711291047873551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_32
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2153
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2b3de2891964130800000000000000
+      internalID: 3550685439034897149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_33
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 2116
+        width: 143
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc566a480a52fb660800000000000000
+      internalID: 7403677683770877391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_34
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2074
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431aa617800d11400800000000000000
+      internalID: 293244185436922164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_35
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 2073
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14879d3af9b938740800000000000000
+      internalID: 5153133508593023041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_36
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2074
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60faae1778d190be0800000000000000
+      internalID: -1510643732437094650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_37
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 869
+        width: 408
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d16c0f6c97536540800000000000000
+      internalID: 4999936340700979665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_38
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1815
+        width: 152
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bac77b8c8d1fe480800000000000000
+      internalID: -8867836651796706637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_39
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1553
+        width: 70
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21917525164d3980800000000000000
+      internalID: -8557606660297617106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_40
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1599
+        width: 60
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46328882efe10d530800000000000000
+      internalID: 3877633356116534116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_41
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1755
+        width: 163
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05c8614eb4330550800000000000000
+      internalID: 6125797909899822350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_42
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1733
+        width: 105
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6774ce55360c8550800000000000000
+      internalID: 6164308816256333675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_43
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1617
+        width: 197
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a4c60dbca4c2860800000000000000
+      internalID: 7506456918155348526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_44
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1454
+        width: 571
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52f758e2bde50ee0800000000000000
+      internalID: -1295367965141110181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_45
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1815
+        width: 149
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b212457bce6c18990800000000000000
+      internalID: -7385403193920577237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1650
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0746e0bbc2f05ad30800000000000000
+      internalID: 4441973292262122608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_47
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1562
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf0acbb3a2324fe0800000000000000
+      internalID: -1206346071370231859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_48
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1452
+        width: 511
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cc01ceddca90680800000000000000
+      internalID: -8788303128688538482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_49
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1317
+        width: 280
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301bd03a214afa1b0800000000000000
+      internalID: -5643111408119992061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_50
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 1646
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7369f532bb946f0800000000000000
+      internalID: -699822506477471812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_51
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1631
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbd19ce6bf015d80800000000000000
+      internalID: -8263806562920702983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_52
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1509
+        width: 183
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895dd3c395b6e8ae0800000000000000
+      internalID: -1545179591134554728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_53
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1359
+        width: 163
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff7e6047a9f8a3f0800000000000000
+      internalID: -889186429669834753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_54
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1551
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c54353a99cad300800000000000000
+      internalID: 277755991191477301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_55
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1341
+        width: 23
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0532ca154a9915c30800000000000000
+      internalID: 4346424046413161296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_56
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1507
+        width: 182
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ab884dc49a719a0800000000000000
+      internalID: -6262350609387046264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_57
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1266
+        width: 237
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6024fdfa00c60a520800000000000000
+      internalID: 2711285725883482630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_58
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1487
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff8afa418bb66700800000000000000
+      internalID: 533319769873092602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_59
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1522
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da084386bdddc8610800000000000000
+      internalID: 1624917499989754029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_60
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1482
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b467776f9e27ed50800000000000000
+      internalID: 6766428227318015153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_61
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1509
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaba70030888b410800000000000000
+      internalID: 1493092822947642109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_62
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1446
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd62956e0b2e59290800000000000000
+      internalID: -7884146323235461409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_63
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1406
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b119c36c389b5a6c0800000000000000
+      internalID: -4132693107424849637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_64
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1294
+        width: 211
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd1d3f7b225e7030800000000000000
+      internalID: 3494320707657866747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_65
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1252
+        width: 123
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473d3977474350c30800000000000000
+      internalID: 4324920691986256756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_66
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1331
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa084d2f90876b7e0800000000000000
+      internalID: -1750079421062807377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_67
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1313
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eed42144579738e0800000000000000
+      internalID: -1713734745065201947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_68
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 1310
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27c55939a181f9b0800000000000000
+      internalID: -5048111143494236373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_69
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1292
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b7afe5ab96545a0800000000000000
+      internalID: -6537703034880099470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_70
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1036
+        width: 60
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239069ba00eb639b0800000000000000
+      internalID: -5100680617862493902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_71
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1227
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda3c3db492bea3d0800000000000000
+      internalID: -3193418733859357985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_72
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1292
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235c185e6163e8350800000000000000
+      internalID: 6020809223808599346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_73
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1303
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a9f282b692cfdb0800000000000000
+      internalID: -4756881566197638499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_74
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1309
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1292b07ab1aa99d30800000000000000
+      internalID: 4438765943493699873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_75
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 870
+        width: 136
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03707f0c8fb0ffc40800000000000000
+      internalID: 5548166428960950064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_76
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1292
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55183aae28d489ef0800000000000000
+      internalID: -101245766938164907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_77
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1112
+        width: 96
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9c86a509e75c850800000000000000
+      internalID: 6396658004206864860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_78
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1239
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834ac2ba1291209a0800000000000000
+      internalID: -6268420098949864392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_79
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1278
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d7140a7c5e29b10800000000000000
+      internalID: 1986903031173709215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_80
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 862
+        width: 268
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362e253cfe204a370800000000000000
+      internalID: 8332788439339688547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_81
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1180
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7013f4cc2c2f3ff20800000000000000
+      internalID: 3455372257588621575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_82
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 1263
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b548d2d3770ebd690800000000000000
+      internalID: -7576215145388604325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_83
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 1274
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b539c5f5f894ed0800000000000000
+      internalID: -2429252884251845804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_84
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 1263
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95c041b8410ad390800000000000000
+      internalID: -7792914793488136805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_85
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 993
+        width: 136
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f122bd5196993a70800000000000000
+      internalID: 8807236097386095096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_86
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1237
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b2aba546fba85f0800000000000000
+      internalID: -753579549891351690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_87
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 995
+        width: 95
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c807c7048fa1aec60800000000000000
+      internalID: 7848114954182619276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_88
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 851
+        width: 129
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84c4da5a357a8900800000000000000
+      internalID: 687490786619868298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_89
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1242
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc38938d36b6eac0800000000000000
+      internalID: -3826170458087605070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_90
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 1184
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af966261865241e50800000000000000
+      internalID: 6779084468077881850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_91
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1228
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d420f857cf213620800000000000000
+      internalID: 2752033380537214162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_92
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 808
+        width: 277
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe32d41e94c16520800000000000000
+      internalID: 2693650235377467130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_93
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1146
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bef3c68c349c0500800000000000000
+      internalID: 363828657590107831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_94
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1156
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8b3f12589ab1680800000000000000
+      internalID: -8783240258990655310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_95
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1182
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bf2eacf1784ddf0800000000000000
+      internalID: -156351516433515736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_96
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1150
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a323e1bb967b50f70800000000000000
+      internalID: 9152923482439168570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_97
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1162
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7252d036b54247980800000000000000
+      internalID: -8542162618292558553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 188
+        width: 349
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b0432ec5a311b20800000000000000
+      internalID: 3103325788841446263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_99
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1141
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac665d605e9a350800000000000000
+      internalID: 6028601393724967543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_100
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1082
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f18ff04f8e401110800000000000000
+      internalID: 1229569075449922039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_101
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1086
+        width: 31
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9683fe81ccfd75260800000000000000
+      internalID: 7086378606375417961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_102
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 944
+        width: 174
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dac6b8bf2da7950800000000000000
+      internalID: 6447697794352065869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_103
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 188
+        width: 354
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c960be78ff2dec3d0800000000000000
+      internalID: -3184375891565541732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_104
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1109
+        width: 79
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ae7473ba40f1760800000000000000
+      internalID: 7430663043597986463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_105
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 790
+        width: 133
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2799705e385882b0800000000000000
+      internalID: -5582114713464367316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_106
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 903
+        width: 21
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9670e5076d2e9b90800000000000000
+      internalID: -7233294031006959969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_107
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1024
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382147d1b8802e340800000000000000
+      internalID: 4891481538865402499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_108
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 790
+        width: 133
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2282089aef05b3e40800000000000000
+      internalID: 5637188413279971362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_109
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 566
+        width: 814
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b6e8111dabfddf0800000000000000
+      internalID: -153198455201830092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_110
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 749
+        width: 110
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb7e5a1bf1e449a0800000000000000
+      internalID: -6249621914287965199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_111
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 794
+        width: 67
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8a6b87b75f22030800000000000000
+      internalID: 3468604573683722469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_112
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 881
+        width: 80
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d2a244438da4c00800000000000000
+      internalID: 885757995725237540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_113
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 660
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ba415eaa5c5cb70800000000000000
+      internalID: 8918751974855584653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_114
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 590
+        width: 226
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc49c5ec8567f18e0800000000000000
+      internalID: -1720526408840866612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_115
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 697
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a3a28151c90c820800000000000000
+      internalID: 2936518571459230224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_116
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 710
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e171ae692761d88d0800000000000000
+      internalID: -2842591108386908386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_117
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 590
+        width: 225
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cefa44e4f142e60800000000000000
+      internalID: 7936502864353946731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_118
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 660
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0794f80b2b985fd0800000000000000
+      internalID: -2352960196164937971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_119
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 600
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11b5a41af0259220800000000000000
+      internalID: 2491934227279753500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_120
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 600
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810cd162b8861de50800000000000000
+      internalID: 6832357056546979864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_121
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 321
+        width: 292
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9ddb78941a6f070800000000000000
+      internalID: 8139870713700800965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_122
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 354
+        width: 21
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10532accaa2a73c50800000000000000
+      internalID: 6644958629669778689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_123
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 354
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b289e18c8688a450800000000000000
+      internalID: 6100273633306444469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_124
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 323
+        width: 288
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da56e4f19c717b10800000000000000
+      internalID: 1977498677713197784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_125
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 170
+        width: 160
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a02e5309b4673a0800000000000000
+      internalID: -6668059115524060663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_126
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 258
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cf8f28106c54650800000000000000
+      internalID: 6216592570449460382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_127
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 296
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0453a4f5aab75e7f0800000000000000
+      internalID: -583924605001255616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_128
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 125
+        width: 285
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da6c7e1692ac2c10800000000000000
+      internalID: 2030176297677515477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_129
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 255
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12aac0029e2793650800000000000000
+      internalID: 6213123506524957217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_130
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 289
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaa65fcccaa39310800000000000000
+      internalID: 1410658904925711067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_131
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 280
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b24b46aca224750800000000000000
+      internalID: 6287635078523923226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_132
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 283
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7cd66a2021e93e0800000000000000
+      internalID: -2045177378188179510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_133
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 279
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0072de6346da7d0800000000000000
+      internalID: -2905555997514334006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_134
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 254
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bcd358b6c857cd0800000000000000
+      internalID: -2560986419665450173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_135
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 125
+        width: 285
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1c820b2b477a310800000000000000
+      internalID: 1416228918639772134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_136
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 296
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758d006118b957690800000000000000
+      internalID: -7605001417022973865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_137
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 258
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8124be791fc5299b0800000000000000
+      internalID: -5074891637387476456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_138
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 171
+        width: 157
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9c9ce847c3e4dd0800000000000000
+      internalID: -2499994271834584622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_139
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 217
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3709c85677b4a39b0800000000000000
+      internalID: -5099680651866763149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_140
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 252
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81569eecc5e746c00800000000000000
+      internalID: 892977563199694104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_141
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 259
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c183c4acb5d420680800000000000000
+      internalID: -8790378466042431460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_142
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 227
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fd1a619e2ca9500800000000000000
+      internalID: 403849422965956497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_143
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 245
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742191d42053ddd20800000000000000
+      internalID: 3304855985559507527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_144
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 245
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a17901c5ca919210800000000000000
+      internalID: 1338020738443604393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_145
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 229
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5919334538f5f610800000000000000
+      internalID: 1654501345773295967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_146
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 260
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3e45071f92fbb50800000000000000
+      internalID: 6611048894951646176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_147
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 252
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3aafba6a05cdaf30800000000000000
+      internalID: 4588540243891694142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_148
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 217
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b9a2d8d32ec51a0800000000000000
+      internalID: -6819326981756511371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_149
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 97
+        width: 233
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149683d3b63a3f220800000000000000
+      internalID: 2518536297614174529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_150
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 205
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4621a5fe2cf4b8600800000000000000
+      internalID: 471558284648256100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_151
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 227
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc8ffd935f701cc0800000000000000
+      internalID: -3742351293235098426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_152
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 194
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afda7f6f55bde3ab0800000000000000
+      internalID: -5026338971836764678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_153
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 194
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd619b70cf058b680800000000000000
+      internalID: -8739146033520896289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_154
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 226
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132c79972ba4844a0800000000000000
+      internalID: -6608950322761579983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_155
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 216
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0001da03ea39830800000000000000
+      internalID: 4076793611785601245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_156
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 206
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1226fa7be3ca84810800000000000000
+      internalID: 1749837840603111969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_157
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 96
+        width: 277
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294123a4647fbe560800000000000000
+      internalID: 7344235498622293138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_158
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 177
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454d401948a8bd4c0800000000000000
+      internalID: -4261660320402713516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_159
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 183
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7714570030ba15df0800000000000000
+      internalID: -193185279619284617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_160
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 165
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eb2cf72af6546c0800000000000000
+      internalID: -4159795937087930777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_161
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 167
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f4586ed70341d00800000000000000
+      internalID: 942431539323817810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_162
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 182
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9763795ad7d2f9ed0800000000000000
+      internalID: -2405153658320243079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_163
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 166
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df08354c968cadc50800000000000000
+      internalID: 6690880553003221245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_164
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 164
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a489eb57dc6f8d7f0800000000000000
+      internalID: -587448389067696054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_165
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 182
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0375f10426de4e0800000000000000
+      internalID: -1950795036038319963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_166
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 148
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2ed017370a91d50800000000000000
+      internalID: 6708569537623483113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_167
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 124
+        width: 99
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fd348484c6e7ed0800000000000000
+      internalID: -2414373292518154487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_168
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 133
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a518dff34ff06f0800000000000000
+      internalID: -716085260055389562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_169
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 133
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cc62ddb86272f40800000000000000
+      internalID: 5703569835240639567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_170
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 127
+        width: 98
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956677c1de00375b0800000000000000
+      internalID: -5371948912138033575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_171
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 148
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28cd1ab6b9ab05e0800000000000000
+      internalID: -1942272212008581075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_172
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 102
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6ae61e0ab248c60800000000000000
+      internalID: 7819422822998910687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_173
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 106
+        width: 76
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a8a77ad155d7810800000000000000
+      internalID: 1764660214851340856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_174
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 89
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16676246d1c84ebe0800000000000000
+      internalID: -1448879122244274591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_175
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 125
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f0d28113b880210800000000000000
+      internalID: 1299441535471652666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_176
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 89
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fefc429012bbbf00800000000000000
+      internalID: 1133695515457552119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_177
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 106
+        width: 76
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e5af3245963a5c0800000000000000
+      internalID: -4205401816932131288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikonka_178
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 75
+        width: 70
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee11eacf0b916a10800000000000000
+      internalID: 1900971009857625829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ikonka_0: 2460357368500611768
+      Ikonka_1: -5608649056699734287
+      Ikonka_10: 4005590996028216695
+      Ikonka_100: 1229569075449922039
+      Ikonka_101: 7086378606375417961
+      Ikonka_102: 6447697794352065869
+      Ikonka_103: -3184375891565541732
+      Ikonka_104: 7430663043597986463
+      Ikonka_105: -5582114713464367316
+      Ikonka_106: -7233294031006959969
+      Ikonka_107: 4891481538865402499
+      Ikonka_108: 5637188413279971362
+      Ikonka_109: -153198455201830092
+      Ikonka_11: -221605558457761575
+      Ikonka_110: -6249621914287965199
+      Ikonka_111: 3468604573683722469
+      Ikonka_112: 885757995725237540
+      Ikonka_113: 8918751974855584653
+      Ikonka_114: -1720526408840866612
+      Ikonka_115: 2936518571459230224
+      Ikonka_116: -2842591108386908386
+      Ikonka_117: 7936502864353946731
+      Ikonka_118: -2352960196164937971
+      Ikonka_119: 2491934227279753500
+      Ikonka_12: 1640214955284691078
+      Ikonka_120: 6832357056546979864
+      Ikonka_121: 8139870713700800965
+      Ikonka_122: 6644958629669778689
+      Ikonka_123: 6100273633306444469
+      Ikonka_124: 1977498677713197784
+      Ikonka_125: -6668059115524060663
+      Ikonka_126: 6216592570449460382
+      Ikonka_127: -583924605001255616
+      Ikonka_128: 2030176297677515477
+      Ikonka_129: 6213123506524957217
+      Ikonka_13: -573382825019885433
+      Ikonka_130: 1410658904925711067
+      Ikonka_131: 6287635078523923226
+      Ikonka_132: -2045177378188179510
+      Ikonka_133: -2905555997514334006
+      Ikonka_134: -2560986419665450173
+      Ikonka_135: 1416228918639772134
+      Ikonka_136: -7605001417022973865
+      Ikonka_137: -5074891637387476456
+      Ikonka_138: -2499994271834584622
+      Ikonka_139: -5099680651866763149
+      Ikonka_14: 4212462493279988323
+      Ikonka_140: 892977563199694104
+      Ikonka_141: -8790378466042431460
+      Ikonka_142: 403849422965956497
+      Ikonka_143: 3304855985559507527
+      Ikonka_144: 1338020738443604393
+      Ikonka_145: 1654501345773295967
+      Ikonka_146: 6611048894951646176
+      Ikonka_147: 4588540243891694142
+      Ikonka_148: -6819326981756511371
+      Ikonka_149: 2518536297614174529
+      Ikonka_15: 4824062548917212165
+      Ikonka_150: 471558284648256100
+      Ikonka_151: -3742351293235098426
+      Ikonka_152: -5026338971836764678
+      Ikonka_153: -8739146033520896289
+      Ikonka_154: -6608950322761579983
+      Ikonka_155: 4076793611785601245
+      Ikonka_156: 1749837840603111969
+      Ikonka_157: 7344235498622293138
+      Ikonka_158: -4261660320402713516
+      Ikonka_159: -193185279619284617
+      Ikonka_16: 1742710969173041187
+      Ikonka_160: -4159795937087930777
+      Ikonka_161: 942431539323817810
+      Ikonka_162: -2405153658320243079
+      Ikonka_163: 6690880553003221245
+      Ikonka_164: -587448389067696054
+      Ikonka_165: -1950795036038319963
+      Ikonka_166: 6708569537623483113
+      Ikonka_167: -2414373292518154487
+      Ikonka_168: -716085260055389562
+      Ikonka_169: 5703569835240639567
+      Ikonka_17: 400874980146343449
+      Ikonka_170: -5371948912138033575
+      Ikonka_171: -1942272212008581075
+      Ikonka_172: 7819422822998910687
+      Ikonka_173: 1764660214851340856
+      Ikonka_174: -1448879122244274591
+      Ikonka_175: 1299441535471652666
+      Ikonka_176: 1133695515457552119
+      Ikonka_177: -4205401816932131288
+      Ikonka_178: 1900971009857625829
+      Ikonka_18: -5546173069747781503
+      Ikonka_19: -5975325428815048643
+      Ikonka_2: -6287925998077913272
+      Ikonka_20: 3765525309264266445
+      Ikonka_21: 3619309503360950891
+      Ikonka_22: 3342278061658534269
+      Ikonka_23: -5103681689866244934
+      Ikonka_24: -62733298305132376
+      Ikonka_25: 3744761814868425941
+      Ikonka_26: -1457277548545831042
+      Ikonka_27: 5197685263825923044
+      Ikonka_28: 7887592896602643170
+      Ikonka_29: 7480798528799909579
+      Ikonka_3: -583521626650549951
+      Ikonka_30: 9099389700416790482
+      Ikonka_31: -2838711291047873551
+      Ikonka_32: 3550685439034897149
+      Ikonka_33: 7403677683770877391
+      Ikonka_34: 293244185436922164
+      Ikonka_35: 5153133508593023041
+      Ikonka_36: -1510643732437094650
+      Ikonka_37: 4999936340700979665
+      Ikonka_38: -8867836651796706637
+      Ikonka_39: -8557606660297617106
+      Ikonka_4: 496437484209420441
+      Ikonka_40: 3877633356116534116
+      Ikonka_41: 6125797909899822350
+      Ikonka_42: 6164308816256333675
+      Ikonka_43: 7506456918155348526
+      Ikonka_44: -1295367965141110181
+      Ikonka_45: -7385403193920577237
+      Ikonka_46: 4441973292262122608
+      Ikonka_47: -1206346071370231859
+      Ikonka_48: -8788303128688538482
+      Ikonka_49: -5643111408119992061
+      Ikonka_5: -7075191700327149457
+      Ikonka_50: -699822506477471812
+      Ikonka_51: -8263806562920702983
+      Ikonka_52: -1545179591134554728
+      Ikonka_53: -889186429669834753
+      Ikonka_54: 277755991191477301
+      Ikonka_55: 4346424046413161296
+      Ikonka_56: -6262350609387046264
+      Ikonka_57: 2711285725883482630
+      Ikonka_58: 533319769873092602
+      Ikonka_59: 1624917499989754029
+      Ikonka_6: -3077259609644194078
+      Ikonka_60: 6766428227318015153
+      Ikonka_61: 1493092822947642109
+      Ikonka_62: -7884146323235461409
+      Ikonka_63: -4132693107424849637
+      Ikonka_64: 3494320707657866747
+      Ikonka_65: 4324920691986256756
+      Ikonka_66: -1750079421062807377
+      Ikonka_67: -1713734745065201947
+      Ikonka_68: -5048111143494236373
+      Ikonka_69: -6537703034880099470
+      Ikonka_7: -4839541088349574307
+      Ikonka_70: -5100680617862493902
+      Ikonka_71: -3193418733859357985
+      Ikonka_72: 6020809223808599346
+      Ikonka_73: -4756881566197638499
+      Ikonka_74: 4438765943493699873
+      Ikonka_75: 5548166428960950064
+      Ikonka_76: -101245766938164907
+      Ikonka_77: 6396658004206864860
+      Ikonka_78: -6268420098949864392
+      Ikonka_79: 1986903031173709215
+      Ikonka_8: -5876979232110132154
+      Ikonka_80: 8332788439339688547
+      Ikonka_81: 3455372257588621575
+      Ikonka_82: -7576215145388604325
+      Ikonka_83: -2429252884251845804
+      Ikonka_84: -7792914793488136805
+      Ikonka_85: 8807236097386095096
+      Ikonka_86: -753579549891351690
+      Ikonka_87: 7848114954182619276
+      Ikonka_88: 687490786619868298
+      Ikonka_89: -3826170458087605070
+      Ikonka_9: 8914954141980398523
+      Ikonka_90: 6779084468077881850
+      Ikonka_91: 2752033380537214162
+      Ikonka_92: 2693650235377467130
+      Ikonka_93: 363828657590107831
+      Ikonka_94: -8783240258990655310
+      Ikonka_95: -156351516433515736
+      Ikonka_96: 9152923482439168570
+      Ikonka_97: -8542162618292558553
+      Ikonka_98: 3103325788841446263
+      Ikonka_99: 6028601393724967543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
