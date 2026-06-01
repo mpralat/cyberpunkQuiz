@@ -300,8 +300,8 @@ MonoBehaviour:
   m_text: "Mo\u017Ce pomog\u0119 w dekoracjach. M\xF3j ogr\xF3d jest pe\u0142en pi\u0119knych
     ro\u015Blin, kt\xF3re mog\u0119 wykorzysta\u0107 do przygotowania ozd\xF3b."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
-  m_sharedMaterial: {fileID: 1471652561250238277, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -543,7 +543,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -1035735954888342129, guid: 9c3a8c9d93f2043f4ac02b951a292be8, type: 3}
+  m_Sprite: {fileID: -2410702160438840667, guid: 2a6ac4180cdd20747909e11905d3e7fa, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1213,8 +1213,8 @@ MonoBehaviour:
   m_text: "Mo\u017Ce pomog\u0119 w dekoracjach. M\xF3j ogr\xF3d jest pe\u0142en pi\u0119knych
     ro\u015Blin, kt\xF3re mog\u0119 wykorzysta\u0107 do przygotowania ozd\xF3b."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
-  m_sharedMaterial: {fileID: 1471652561250238277, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1968,10 +1968,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Zaczynamy!
+  m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
-  m_sharedMaterial: {fileID: 1471652561250238277, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2227,8 +2227,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Dowiedz si\u0119 wi\u0119cej o chowa\u0144cu"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
-  m_sharedMaterial: {fileID: 1471652561250238277, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2361,10 +2361,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Machina Bestiolarum
+  m_text: Cos tam cyberpunk
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
-  m_sharedMaterial: {fileID: 1471652561250238277, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 50a127f0a1c3e39478ac2fc54c5708f1, type: 2}
+  m_sharedMaterial: {fileID: -2362366613584810242, guid: 50a127f0a1c3e39478ac2fc54c5708f1, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2578,8 +2578,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Powr\xF3t"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
-  m_sharedMaterial: {fileID: 1471652561250238277, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2714,8 +2714,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Tw\xF3j chowaniec to: \\n"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
-  m_sharedMaterial: {fileID: 1471652561250238277, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2926,8 +2926,8 @@ MonoBehaviour:
   m_text: "Mo\u017Ce pomog\u0119 w dekoracjach. M\xF3j ogr\xF3d jest pe\u0142en pi\u0119knych
     ro\u015Blin, kt\xF3re mog\u0119 wykorzysta\u0107 do przygotowania ozd\xF3b."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
-  m_sharedMaterial: {fileID: 1471652561250238277, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3063,8 +3063,8 @@ MonoBehaviour:
   m_text: "Mo\u017Ce pomog\u0119 w dekoracjach. M\xF3j ogr\xF3d jest pe\u0142en pi\u0119knych
     ro\u015Blin, kt\xF3re mog\u0119 wykorzysta\u0107 do przygotowania ozd\xF3b."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
-  m_sharedMaterial: {fileID: 1471652561250238277, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3243,7 +3243,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1302723820812287101, guid: 84c651cd8a0e149ebb8071c1b4eabd6d, type: 3}
+  m_Sprite: {fileID: 1300247571187000929, guid: c15ba89f5c37274458d17d31e9a2b169, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3320,8 +3320,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Pytanie 1
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
-  m_sharedMaterial: {fileID: 1471652561250238277, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3787,7 +3787,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -1.9050293, y: -7}
+  m_AnchoredPosition: {x: -1.9050293, y: -6.9999695}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2147457613
