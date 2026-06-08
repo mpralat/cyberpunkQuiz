@@ -300,8 +300,8 @@ MonoBehaviour:
   m_text: "Mo\u017Ce pomog\u0119 w dekoracjach. M\xF3j ogr\xF3d jest pe\u0142en pi\u0119knych
     ro\u015Blin, kt\xF3re mog\u0119 wykorzysta\u0107 do przygotowania ozd\xF3b."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
-  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -325,7 +325,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 44.05
+  m_fontSize: 44.75
   m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -620,8 +620,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: New Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
-  m_sharedMaterial: {fileID: 1471652561250238277, guid: 5dd4538f000c9443bb2243daaa17b102, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1213,8 +1213,8 @@ MonoBehaviour:
   m_text: "Mo\u017Ce pomog\u0119 w dekoracjach. M\xF3j ogr\xF3d jest pe\u0142en pi\u0119knych
     ro\u015Blin, kt\xF3re mog\u0119 wykorzysta\u0107 do przygotowania ozd\xF3b."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
-  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1238,7 +1238,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 44.05
+  m_fontSize: 44.75
   m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2227,8 +2227,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Dowiedz si\u0119 wi\u0119cej o chowa\u0144cu"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
-  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2361,10 +2361,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Cos tam cyberpunk
+  m_text: "Co\u015B tam cyberszpont"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 50a127f0a1c3e39478ac2fc54c5708f1, type: 2}
-  m_sharedMaterial: {fileID: -2362366613584810242, guid: 50a127f0a1c3e39478ac2fc54c5708f1, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2578,8 +2578,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Powr\xF3t"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
-  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2714,8 +2714,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Tw\xF3j chowaniec to: \\n"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
-  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2926,8 +2926,8 @@ MonoBehaviour:
   m_text: "Mo\u017Ce pomog\u0119 w dekoracjach. M\xF3j ogr\xF3d jest pe\u0142en pi\u0119knych
     ro\u015Blin, kt\xF3re mog\u0119 wykorzysta\u0107 do przygotowania ozd\xF3b."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
-  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2951,7 +2951,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 44.05
+  m_fontSize: 44.75
   m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3063,8 +3063,8 @@ MonoBehaviour:
   m_text: "Mo\u017Ce pomog\u0119 w dekoracjach. M\xF3j ogr\xF3d jest pe\u0142en pi\u0119knych
     ro\u015Blin, kt\xF3re mog\u0119 wykorzysta\u0107 do przygotowania ozd\xF3b."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
-  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3088,7 +3088,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 44.05
+  m_fontSize: 44.75
   m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3198,7 +3198,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 2
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -3208,7 +3208,7 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
+    m_HighlightedSprite: {fileID: 3980168229369012863, guid: 7cdf2c164541ed44e990dfa7361e68b2, type: 3}
     m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
@@ -3320,8 +3320,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Pytanie 1
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
-  m_sharedMaterial: {fileID: 2147850104708702307, guid: 554e7123262d43a4db6a8de3f0300866, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
