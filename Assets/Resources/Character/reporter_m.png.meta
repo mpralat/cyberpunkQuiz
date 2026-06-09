@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e3d507c0f615046e9b8bc89ae2283efe
+guid: 6881ca205846143fcbe954b3257b4ea3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9056373806263606760
-    second: domek_tlo_0
+      213: -599051653508721279
+    second: reporter_m_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,7 +97,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: iOS
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: domek_tlo_0
+      name: reporter_m_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 2048
-        height: 2956
+        height: 2048
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ed9e7b7ef3bead70800000000000000
-      internalID: 9056373806263606760
+      spriteID: 185908ee1bdbfa7f0800000000000000
+      internalID: -599051653508721279
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      domek_tlo_0: 9056373806263606760
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

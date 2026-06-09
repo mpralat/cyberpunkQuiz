@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c15ba89f5c37274458d17d31e9a2b169
+guid: 5b04e64a9e0d6425192610f2d12762ed
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1300247571187000929
-    second: start przezroczysty_0
+      213: 3807474204227052593
+    second: nomada_n_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: start przezroczysty_0
+      name: nomada_n_0
       rect:
         serializedVersion: 2
-        x: 393
-        y: 701
-        width: 4554
-        height: 1674
+        x: 0
+        y: 0
+        width: 2348
+        height: 2348
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1666aa8e6486b0210800000000000000
-      internalID: 1300247571187000929
+      spriteID: 134aa6aad9dd6d430800000000000000
+      internalID: 3807474204227052593
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      start przezroczysty_0: 1300247571187000929
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -6,20 +6,30 @@ public class ScoreManager
 {
     private Dictionary<string, int> scores = new Dictionary<string, int>
     {
-        { "solo",       0 },
-        { "netrunner",  0 },
-        { "tech",       0 },
-        { "rockerboy",  0 },
+        { "nomada",     0 }, 
         { "fixer",      0 },
-        { "nomad",      0 },
-        { "media",      0 },
-        { "lawman",     0 }
+        { "rocker",     0 },
+        { "korpo",      0 },
+        { "solo",       0 },
+        { "ripperdoc",  0 },
+        { "netrunner",  0 },
+        { "reporter",   0 },
     };
+
+    public enum CharacterGender
+    {
+        Male,
+        Female,
+        NonBinary
+    }
 
     private CharacterClass[] allClasses;
 
     #nullable enable
     private CharacterClass? _currentCharacterClass;
+    #nullable disable
+    #nullable enable
+    private CharacterGender? _currentCharacterGender;
     #nullable disable
 
     public CharacterClass CurrentCharacterClass
@@ -31,6 +41,17 @@ public class ScoreManager
             return _currentCharacterClass;
         }
         set { _currentCharacterClass = value; }
+    }
+    
+    public CharacterGender CurrentCharacterGender
+    {
+        get
+        {
+            if (_currentCharacterGender == null)
+                throw new System.InvalidOperationException("CurrentCharacterGender is not set.");
+            return _currentCharacterGender.Value;
+        }
+        set { _currentCharacterGender = value; }
     }
 
     public void LoadClasses()
@@ -89,8 +110,23 @@ public class ScoreManager
         Debug.Log($"CharacterClass selected: {CurrentCharacterClass.Name}");
     }
 
-    public string GetFileName(string className) // todo?
+    public string GetFileName(string className)
     {
-        return className;
+        // todo remove once we've got all portraits
+        string[] availablePortraits = { "netrunner", "nomada", "reporter", "ripperdoc" };
+
+        if (availablePortraits.Contains(className))
+        {
+            string suffix = _currentCharacterGender switch
+            {
+                CharacterGender.Female => "f",
+                CharacterGender.Male => "m",
+                CharacterGender.NonBinary => "n",
+                _ => "m"
+            };
+            return $"{className}_{suffix}";
+        }
+
+        return "johnyy";
     }
 }

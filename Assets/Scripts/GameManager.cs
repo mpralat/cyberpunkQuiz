@@ -8,7 +8,7 @@ using UnityEngine.EventSystems;
 
 public class GameManager : MonoBehaviour
 {
-    private const int QUESTIONS_TO_DRAW = 2;
+    private const int QUESTIONS_TO_DRAW = 8;
 
     private static bool initialized = false;
 
@@ -22,7 +22,7 @@ public class GameManager : MonoBehaviour
     public Button[] answerButtons;
     public TextAsset questionsJson;
     public CanvasGroup questionPanelGroup;
-    private string MainPanelBackground = "domek_tlo";
+    private string MainPanelBackground = "background1";
 
     // Result Panel
     public GameObject resultPanel;
@@ -32,6 +32,8 @@ public class GameManager : MonoBehaviour
     public Image DescriptionBackground;
     public Button ShowDescriptionButton;
     public TextMeshProUGUI SpiritDescription;
+    public Sprite ShowCharacterSprite;
+    public Sprite ShowDescriptionSprite;
 
     // Data
     private QuestionList loadedQuestions;
@@ -67,7 +69,9 @@ public class GameManager : MonoBehaviour
         ChooseQuestions();
         currentQuestionIndex = 0;
         scoreManager.ResetPoints();
+        DescriptionBackground.enabled = false;
 
+        MainPanel.SetActive(true);
         resultPanel.SetActive(false);
         resultImage.enabled = true;
         SpiritDescription.enabled = false;
@@ -140,6 +144,7 @@ public class GameManager : MonoBehaviour
     {
         List<string> tied = scoreManager.GetTiedClasses();
 
+		Debug.Log(tied);
         if (tied.Count == 1)
         {
             scoreManager.CalculateCharacterClass();
@@ -189,40 +194,60 @@ public class GameManager : MonoBehaviour
         scoreManager.ForceClass(characterClass);
         scoreManager.CalculateCharacterClass();
 
+        // add gender question here
+        // for now just set MALE
+        scoreManager.CurrentCharacterGender = ScoreManager.CharacterGender.Male;
+        
         Invoke(nameof(ShowResult), 0.4f);
     }
 
-    TiebreakerQuestion FindTiebreakerQuestion(List<string> tiedClasses)
+   TiebreakerQuestion FindTiebreakerQuestion(List<string> tiedClasses)
     {
+        Debug.Log("FindTiebreakerQuestion");
+
+        Debug.Log(string.Join(", ", tiedClasses));
+
         if (loadedQuestions.tiebreakerQuestions == null) return null;
 
-        var sortedTied = tiedClasses.OrderBy(c => c).ToList();
+        if (tiedClasses.Count == 2)
+    {
+        string classA = tiedClasses[0];
+        string classB = tiedClasses[1];
 
         foreach (var tbq in loadedQuestions.tiebreakerQuestions)
         {
-            var tbClasses = tbq.answers.Select(a => a.characterClass).OrderBy(c => c).ToList();
-            if (tbClasses.SequenceEqual(sortedTied))
-                return tbq;
+            bool hasA = tbq.answers.Any(a => a.characterClass == classA);
+            bool hasB = tbq.answers.Any(a => a.characterClass == classB);
+            if (hasA && hasB) return tbq;
         }
-
-        foreach (var tbq in loadedQuestions.tiebreakerQuestions)
-        {
-            var tbClasses = tbq.answers.Select(a => a.characterClass).ToHashSet();
-            if (sortedTied.All(c => tbClasses.Contains(c)))
-                return tbq;
-        }
-
         return null;
     }
+
+    if (tiedClasses.Count > 2)
+    {
+        var shuffled = tiedClasses.OrderBy(_ => Random.value).ToList();
+        for (int i = 0; i < shuffled.Count - 1; i++)
+        {
+            var pair = new List<string> { shuffled[i], shuffled[i + 1] };
+            var result = FindTiebreakerQuestion(pair);
+            if (result != null) return result;
+        }
+        return null;
+    }
+
+    return null;
+}
     
     void ShowResult()
     {
+        Debug.Log("ShowResult");
+        MainPanel.SetActive(false);
         CharacterClass resultCharacterClass = scoreManager.CurrentCharacterClass;
         resultPanel.SetActive(true);
         resultText.text = $"Twoim wynikiem jest {resultCharacterClass.Name}!";
         SpiritDescription.text = resultCharacterClass.Description;
 
-        string fileName = scoreManager.GetFileName("johnyy"); // todo hardcoded
+		string fileName = scoreManager.GetFileName(resultCharacterClass.Class);
         Debug.Log(fileName == null ? "NIE ZNALEZIONO" : "OK");
         resultImage.sprite = Resources.Load<Sprite>($"Character/{fileName}");
     }
@@ -233,6 +258,7 @@ public class GameManager : MonoBehaviour
             btn.gameObject.SetActive(true);
 
         ShowDescription = false;
+        
         Start();
     }
 
@@ -243,21 +269,21 @@ public class GameManager : MonoBehaviour
         SpiritDescription.enabled = ShowDescription;
         DescriptionBackground.enabled = ShowDescription;
 
-        ShowDescriptionButton.GetComponentInChildren<TextMeshProUGUI>().text =
-            ShowDescription ? "Pokaż postać" : "Pokaż opis postaci";
+        ShowDescriptionButton.GetComponent<Image>().sprite = 
+            ShowDescription ? ShowCharacterSprite : ShowDescriptionSprite;
     }
 
     public void ToggleQuestionBackground()
     {
-        if (MainPanelBackground == "domek_tlo")
+        if (MainPanelBackground == "background1")
         {
-            MainPanel.GetComponent<Image>().sprite = Resources.Load<Sprite>("rzeka_tlo");
-            MainPanelBackground = "rzeka_tlo";
+            MainPanel.GetComponent<Image>().sprite = Resources.Load<Sprite>("background2");
+            MainPanelBackground = "background2";
         }
         else
         {
-            MainPanel.GetComponent<Image>().sprite = Resources.Load<Sprite>("domek_tlo");
-            MainPanelBackground = "domek_tlo";
+            MainPanel.GetComponent<Image>().sprite = Resources.Load<Sprite>("background1");
+            MainPanelBackground = "background1";
         }
     }
     

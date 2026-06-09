@@ -1,595 +1,802 @@
 {
   "questions": [
     {
-      "text": "Pytanie 1",
+      "text": "Co cenisz w życiu najbardziej?",
       "answers": [
-        { "text": "Odpowiedź A", "characterClass": "solo" },
-        { "text": "Odpowiedź B", "characterClass": "netrunner" },
-        { "text": "Odpowiedź C", "characterClass": "fixer" },
-        { "text": "Odpowiedź D", "characterClass": "rockerboy" }
+        {
+          "text": "Rodzinę i lojalność",
+          "characterClass": "nomada"
+        },
+        {
+          "text": "Wyzwanie i ryzyko",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Pieniądze i wpływy",
+          "characterClass": "korpo"
+        },
+        {
+          "text": "Wolność i swobodę",
+          "characterClass": "rocker"
+        }
       ]
     },
     {
-      "text": "Pytanie 2",
+      "text": "Jakie jest twoje marzenie?",
       "answers": [
-        { "text": "Odpowiedź A", "characterClass": "tech" },
-        { "text": "Odpowiedź B", "characterClass": "media" },
-        { "text": "Odpowiedź C", "characterClass": "rockerboy" },
-        { "text": "Odpowiedź D", "characterClass": "lawman" }
+        {
+          "text": "Mieć pełną kontrolę nad swoim życiem",
+          "characterClass": "fixer"
+        },
+        {
+          "text": "Osiągnąć mistrzostwo w wybranej dziedzinie",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Móc realnie wpłynąć na los ludzi",
+          "characterClass": "reporter"
+        },
+        {
+          "text": "Uczciwie zarobić na spokojną emeryturę",
+          "characterClass": "ripperdoc"
+        }
       ]
     },
     {
-      "text": "Pytanie 3",
+      "text": "Które zdanie najlepiej Cię opisuje?",
       "answers": [
-        { "text": "Odpowiedź A", "characterClass": "netrunner" },
-        { "text": "Odpowiedź B", "characterClass": "solo" },
-        { "text": "Odpowiedź C", "characterClass": "media" },
-        { "text": "Odpowiedź D", "characterClass": "tech" }
+        {
+          "text": "Lepiej czuję się z maszynami niż wśród ludzi",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Zawsze wiem czego chcę i jak to osiągnąć",
+          "characterClass": "korpo"
+        },
+        {
+          "text": "Znam wszystkie najnowsze plotki i newsy",
+          "characterClass": "reporter"
+        },
+        {
+          "text": "W towarzystwie błyszczę jak nikt inny",
+          "characterClass": "rocker"
+        }
+      ]
+    },
+    {
+      "text": "Spotykasz człowieka w potrzebie. Co robisz?",
+      "answers": [
+        {
+          "text": "Muszę się martwić o siebie, nie mogę mu pomóc",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Pomogę, jeśli to ktoś mi bliski",
+          "characterClass": "nomada"
+        },
+        {
+          "text": "Jeśli mu pomogę, będzie miał u mnie dług do spłacenia",
+          "characterClass": "fixer"
+        },
+        {
+          "text": "Wspieram go, jak mogę, odwdzięczy się, jeśli będzie mógł",
+          "characterClass": "ripperdoc"
+        }
+      ]
+    },
+    {
+      "text": "Zdradził, Cię przyjaciel. Jak na to reagujesz?",
+      "answers": [
+        {
+          "text": "Zachowuję zimną krew i zaczynam planować jego upadek",
+          "characterClass": "korpo"
+        },
+        {
+          "text": "Zapłaci mi za to, gdy tylko go zobaczę",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Na pewno możemy się jakoś dogadać, prawda?",
+          "characterClass": "rocker"
+        },
+        {
+          "text": "Ujawniam jego zdradę, by ostrzec innych",
+          "characterClass": "reporter"
+        }
+      ]
+    },
+    {
+      "text": "Jaki, przedmiot zawsze chciałbyś mieć przy sobie?",
+      "answers": [
+        {
+          "text": "Kluczyki do mojej bryki",
+          "characterClass": "nomada"
+        },
+        {
+          "text": "Dysk z najważniejszymi danymi",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Apteczkę",
+          "characterClass": "ripperdoc"
+        },
+        {
+          "text": "Zdjęcie z najbliższymi",
+          "characterClass": "fixer"
+        }
+      ]
+    },
+    {
+      "text": "Ktoś, Cię śledzi. Wiesz że nie ma dobrych zamiarów. Co robisz?",
+      "answers": [
+        {
+          "text": "Dzwonię po wsparcie.",
+          "characterClass": "nomada"
+        },
+        {
+          "text": "Przygotowuję się do fizycznej konfrontacji.",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Wiem wszystko o tym mieście i mieszkańcach, więc jeżeli ten ktoś chce mnie zaskoczyć, to czeka ich zawód.",
+          "characterClass": "fixer"
+        },
+        {
+          "text": "Pewnie chce autograf. Zresztą, nie ma sytuacji, z której nie jestem w stanie się wydostać gadaniem.",
+          "characterClass": "rocker"
+        }
+      ]
+    },
+    {
+      "text": "Co zwykle sądzisz o ludziach?",
+      "answers": [
+        {
+          "text": "Zasługują na to, żeby podejmować poinformowane decyzje o swoim życiu.",
+          "characterClass": "reporter"
+        },
+        {
+          "text": "Bacznie ich obserwuję, bo przecież kiedyś mogą się mi przydać. Niezależnie od tego, czy są tego świadomi.",
+          "characterClass": "korpo"
+        },
+        {
+          "text": "Praca w zespole to mój chleb powszedni, więc opinia zmienia się w zależności od ich kompetencji.",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Pomagam wszystkim tak, jak mogę, ale w pewnym momencie oni też będą musieli zacząć dbać o siebie samych.",
+          "characterClass": "ripperdoc"
+        }
+      ]
+    },
+    {
+      "text": "W jakim towarzystwie czujesz się najlepiej?",
+      "answers": [
+        {
+          "text": "Dźwięk muzyki w tle, tańczący ludzie, którzy mają coś do powiedzenia i pragną zmiany.",
+          "characterClass": "rocker"
+        },
+        {
+          "text": "Póki mi płacą, jestem w stanie odnaleźć się w każdym towarzystwie.",
+          "characterClass": "solo"
+        },
+        {
+          "text": "Obecność najbliższej rodziny i przyjaciół zapewnia mi komfort.",
+          "characterClass": "nomada"
+        },
+        {
+          "text": "Zaufane osoby, przy których nie muszę się cały czas pilnować lub targować.",
+          "characterClass": "fixer"
+        }
+      ]
+    },
+    {
+      "text": "Wybierasz perfumy. Jaka główna nuta do Ciebie przemawia?",
+      "answers": [
+        {
+          "text": "Trawa cytrynowa - przenikliwa, orzeźwiająca. Informuje innych, że nic nie umyka Twojej uwadze.",
+          "characterClass": "reporter"
+        },
+        {
+          "text": "Paczula - upojny, intensywny zapach. Jesteś kimś, kto bez problemu dominuje konwersację… a być może nią nawet manipuluje.",
+          "characterClass": "korpo"
+        },
+        {
+          "text": "Ylang-ylang - kwiatowa, delikatna nuta. Chociaż czasami twoja obecność może nie być krzykliwa i od razu zauważalna, to nie daje o sobie zapomnieć.",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Białe piżmo - kojący, słodki zapach. Ludzie ci ufają, a ty raczej starasz się tego zaufania nie nadużywać.",
+          "characterClass": "ripperdoc"
+        }
       ]
     }
   ],
   "tiebreakerQuestions": [
     {
-      "text": "Pytanie rozstrzygające (remis między solo i netrunner)",
-      "answers": [
-        { "text": "Odpowiedź A", "characterClass": "solo" },
-        { "text": "Odpowiedź B", "characterClass": "netrunner" },
-        { "text": "Odpowiedź C", "characterClass": "solo" },
-        { "text": "Odpowiedź D", "characterClass": "netrunner" }
-      ]
-    },
-    {
-      "text": "Pytanie rozstrzygające (remis między solo i tech)",
-      "answers": [
-        { "text": "Odpowiedź A", "characterClass": "solo" },
-        { "text": "Odpowiedź B", "characterClass": "tech" },
-        { "text": "Odpowiedź C", "characterClass": "solo" },
-        { "text": "Odpowiedź D", "characterClass": "tech" }
-      ]
-    },
-    {
-      "text": "Pytanie rozstrzygające (remis między solo i rockerboy)",
+      "text": "Gdybyś miał coś zmienić w mieście, wybierzesz:",
       "answers": [
         {
-          "text": "Odpowiedź A",
+          "text": "Tworzenie inspirującej sztuki, która porwie tłumy.",
+          "characterClass": "rocker"
+        },
+        {
+          "text": "Radykalizm - niech żyje rewolucja!",
+          "characterClass": "rocker"
+        },
+        {
+          "text": "Działanie w cieniu, by osiągnąć swoje cele.",
           "characterClass": "solo"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "rockerboy"
-        },
+          "text": "Wdrożenie nowych technologii, rozwiązujących problemy.",
+          "characterClass": "solo"
+        }
+      ]
+    },
+    {
+      "text": "Przed Tobą stoi zamknięta korporacyjna placówka. Jak dostajesz się do środka?",
+      "answers": [
         {
-          "text": "Odpowiedź C",
+          "text": "Głównym wejściem, nikt nie dorówna Ci siłą w bezpośrednim starciu.",
           "characterClass": "solo"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "rockerboy"
+          "text": "Sprawiasz, że system sam wpuszcza Cię przez drzwi.",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Gdzieś musi być tylne wejście, prawda?",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Dziura w ścianie brzmi najbardziej spektakularnie.",
+          "characterClass": "solo"
         }
       ]
     },
     {
-      "text": "Pytanie rozstrzygające (remis między solo i fixer)",
+      "text": "Gdzie najczęściej można Cię znaleźć?",
       "answers": [
         {
-          "text": "Odpowiedź A",
+          "text": "W centrum uwagi.",
+          "characterClass": "rocker"
+        },
+        {
+          "text": "W Twoim pokoju.",
+          "characterClass": "ripperdoc"
+        },
+        {
+          "text": "W warsztacie albo w garażu.",
+          "characterClass": "ripperdoc"
+        },
+        {
+          "text": "Na imprezie w klubie.",
+          "characterClass": "rocker"
+        }
+      ]
+    },
+    {
+      "text": "Co, jest najskuteczniejszą bronią przeciw korporacjom?",
+      "answers": [
+        {
+          "text": "Tłum gotowy do buntu.",
+          "characterClass": "rocker"
+        },
+        {
+          "text": "Niepodważalne dowody winy.",
+          "characterClass": "reporter"
+        },
+        {
+          "text": "Charyzmatyczny przywódca ludu.",
+          "characterClass": "rocker"
+        },
+        {
+          "text": "Prawda, która obroni się sama.",
+          "characterClass": "reporter"
+        }
+      ]
+    },
+    {
+      "text": "Korporacja, proponuje Ci awans w zamian za milczenie. Co robisz?",
+      "answers": [
+        {
+          "text": "Nie sprzedaję swoich przekonań i głośno o tym mówię.",
+          "characterClass": "rocker"
+        },
+        {
+          "text": "Zwalniam się.",
+          "characterClass": "rocker"
+        },
+        {
+          "text": "Przyjmuję ofertę. Z korposami trzeba grać w ich własną grę, jeśli chce się coś osiągnąć.",
+          "characterClass": "korpo"
+        },
+        {
+          "text": "Jeśli zapewni mi to święty spokój i lepsze zarobki, dlaczego by nie rozważyć tej oferty?",
+          "characterClass": "korpo"
+        }
+      ]
+    },
+    {
+      "text": "Co daje Ci realną siłę?",
+      "answers": [
+        {
+          "text": "To, że ludzie ode mnie zależą.",
+          "characterClass": "fixer"
+        },
+        {
+          "text": "To, że ludzie mnie słuchają.",
+          "characterClass": "rocker"
+        },
+        {
+          "text": "To, że każdy mnie zna.",
+          "characterClass": "rocker"
+        },
+        {
+          "text": "To, że każdy wisi mi przysługę.",
+          "characterClass": "fixer"
+        }
+      ]
+    },
+    {
+      "text": "Kto jest dla Ciebie najważniejszy?",
+      "answers": [
+        {
+          "text": "Moja rodzina.",
+          "characterClass": "nomada"
+        },
+        {
+          "text": "Moi przyjaciele.",
+          "characterClass": "nomada"
+        },
+        {
+          "text": "Moi fani.",
+          "characterClass": "rocker"
+        },
+        {
+          "text": "Wszyscy ludzie.",
+          "characterClass": "rocker"
+        }
+      ]
+    },
+    {
+      "text": "W Night City najbardziej polegasz na:",
+      "answers": [
+        {
+          "text": "Swojej inteligencji.",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Swojej charyzmie.",
+          "characterClass": "rocker"
+        },
+        {
+          "text": "Swojej kreatywności.",
+          "characterClass": "rocker"
+        },
+        {
+          "text": "Swojej technologii.",
+          "characterClass": "netrunner"
+        }
+      ]
+    },
+    {
+      "text": "Gdy pojawia się zagrożenie…",
+      "answers": [
+        {
+          "text": "Reaguję natychmiast i je eliminuję.",
           "characterClass": "solo"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "fixer"
+          "text": "Poprawiam swój “sprzęt”, żeby zwiększyć swoje szanse.",
+          "characterClass": "ripperdoc"
         },
         {
-          "text": "Odpowiedź C",
+          "text": "Kupuję nową broń, w sam raz na nowe wyzwania.",
           "characterClass": "solo"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "fixer"
+          "text": "Zamawiam nowe wszczepy.",
+          "characterClass": "ripperdoc"
         }
       ]
     },
     {
-      "text": "Pytanie rozstrzygające (remis między solo i nomad)",
+      "text": "Gdy widzę niesprawiedliwość…",
       "answers": [
         {
-          "text": "Odpowiedź A",
+          "text": "działam od razu, bez wahania.",
           "characterClass": "solo"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "nomad"
+          "text": "zgłaszam ją na policję, by zajęły się tym odpowiednie instytucje.",
+          "characterClass": "reporter"
         },
         {
-          "text": "Odpowiedź C",
+          "text": "staram się nie działać pochopnie i najpierw robię research.",
+          "characterClass": "reporter"
+        },
+        {
+          "text": "nie liczę na pomoc instytucji i stawiam na oddolne działania.",
+          "characterClass": "solo"
+        }
+      ]
+    },
+    {
+      "text": "Jaką pracę preferujesz?",
+      "answers": [
+        {
+          "text": "Stabilny zawód, w uporządkowanym systemie i z jasnymi zasadami.",
+          "characterClass": "korpo"
+        },
+        {
+          "text": "Indywidualną, w której wykonanie powierzonego zadania zależy tylko od Ciebie.",
           "characterClass": "solo"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "nomad"
-        }
-      ]
-    },
-    {
-      "text": "Pytanie rozstrzygające (remis między solo i media)",
-      "answers": [
-        {
-          "text": "Odpowiedź A",
+          "text": "Posiadanie własnej firmy to Twoje marzenie.",
           "characterClass": "solo"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "media"
-        },
+          "text": "Pełną wyzwań, których pokonanie zapewni awans.",
+          "characterClass": "korpo"
+        }
+      ]
+    },
+    {
+      "text": "Jak najczęściej rozwiązujesz problemy?",
+      "answers": [
         {
-          "text": "Odpowiedź C",
+          "text": "Siłowo.",
           "characterClass": "solo"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "media"
-        }
-      ]
-    },
-    {
-      "text": "Pytanie rozstrzygające (remis między solo i lawman)",
-      "answers": [
-        {
-          "text": "Odpowiedź A",
+          "text": "Polegam tylko na sobie.",
           "characterClass": "solo"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "lawman"
+          "text": "Znajduję kogoś, kto rozwiąże problem za mnie.",
+          "characterClass": "fixer"
         },
         {
-          "text": "Odpowiedź C",
+          "text": "Wykorzystuję swoje kontakty i znajomości.",
+          "characterClass": "fixer"
+        }
+      ]
+    },
+    {
+      "text": "Czym jest dla Ciebie wolność?",
+      "answers": [
+        {
+          "text": "Życiem w drodze, podróżowaniem.",
+          "characterClass": "nomada"
+        },
+        {
+          "text": "Beztroskim spędzaniem czasu z rodziną i przyjaciółmi.",
+          "characterClass": "nomada"
+        },
+        {
+          "text": "Samodzielnym podejmowaniem decyzji.",
           "characterClass": "solo"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "lawman"
+          "text": "Brakiem zobowiązań wobec kogokolwiek.",
+          "characterClass": "solo"
         }
       ]
     },
     {
-      "text": "Pytanie rozstrzygające (remis między netrunner i tech)",
+      "text": "Co cenisz w życiu najbardziej?",
       "answers": [
         {
-          "text": "Odpowiedź A",
+          "text": "Spokojny wieczór we własnej pracowni",
+          "characterClass": "ripperdoc"
+        },
+        {
+          "text": "Dobre piwko przy dobrym serialu w dobrym towarzystwie",
           "characterClass": "netrunner"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "tech"
-        },
-        {
-          "text": "Odpowiedź C",
+          "text": "Kiedy nie mam żadnej pracy i mogę w spokoju poszukać informacji",
           "characterClass": "netrunner"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "tech"
+          "text": "Znajomości, które same do mnie przychodzą",
+          "characterClass": "ripperdoc,"
         }
       ]
     },
     {
-      "text": "Pytanie rozstrzygające (remis między netrunner i rockerboy)",
+      "text": "Gdyby była możliwość poznania twojego ulubionego celebryty…",
       "answers": [
         {
-          "text": "Odpowiedź A",
+          "text": "Nie mam po co, wiem już o nich wszystko co mogę",
           "characterClass": "netrunner"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "rockerboy"
+          "text": "Wolę nie, moi idole by mnie zmiażdżyli",
+          "characterClass": "reporter"
         },
         {
-          "text": "Odpowiedź C",
+          "text": "Jasne, czemu nie",
           "characterClass": "netrunner"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "rockerboy"
+          "text": "Ooo i mogę się dopytać o ich nowe wszczepy!!",
+          "characterClass": "reporter,"
         }
       ]
     },
     {
-      "text": "Pytanie rozstrzygające (remis między netrunner i fixer)",
+      "text": "Jakie masz ulubione zwierzę?",
       "answers": [
         {
-          "text": "Odpowiedź A",
+          "text": "Nie lubię zwierząt",
           "characterClass": "netrunner"
         },
         {
-          "text": "Odpowiedź B",
+          "text": "Szczury. Ludzie mi mówią, że są brudne, ale to inteligentne stworzenia. I przetrwają w każdych warunkach.",
+          "characterClass": "korpo"
+        },
+        {
+          "text": "W sumie to zające są spoko, w razie problemów zawsze zwieją",
+          "characterClass": "netrunner"
+        },
+        {
+          "text": "Zawsze podobały mi się owady, szczególnie pająki czychające na zdobycz",
+          "characterClass": "korpo,"
+        }
+      ]
+    },
+    {
+      "text": "Gdybyś potrzebował coś od kogoś ukraść, jak byś to zrobił?",
+      "answers": [
+        {
+          "text": "Czemu miałbym? Wolę zlecić to komu innemu",
           "characterClass": "fixer"
         },
         {
-          "text": "Odpowiedź C",
+          "text": "Najlepiej jest zawsze po cichu, tak żeby nikt się nawet nie zorientował że tam byłeś.",
           "characterClass": "netrunner"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "fixer"
-        }
-      ]
-    },
-    {
-      "text": "Pytanie rozstrzygające (remis między netrunner i nomad)",
-      "answers": [
-        {
-          "text": "Odpowiedź A",
+          "text": "Zadzwoniłbym po paru znajomych i zhackował zabezpieczenia tak, żeby ta rzecz sama do mnie przyszła",
           "characterClass": "netrunner"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "nomad"
+          "text": "Na pewno nie szedłbym tam samemu, tyle ci mogę od razu powiedzieć",
+          "characterClass": "fixer,"
+        }
+      ]
+    },
+    {
+      "text": "W jaki sposób zazwyczaj spędzasz święta?",
+      "answers": [
+        {
+          "text": "Z kumplami i rodziną, zjeżdżamy się i opowiadamy historie",
+          "characterClass": "nomada"
         },
         {
-          "text": "Odpowiedź C",
+          "text": "A co ci do tego?",
           "characterClass": "netrunner"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "nomad"
-        }
-      ]
-    },
-    {
-      "text": "Pytanie rozstrzygające (remis między netrunner i media)",
-      "answers": [
+          "text": "Niestety rodzinę mi wybili Kosiarze, ale zawsze mam mojego psa!",
+          "characterClass": "nomada"
+        },
         {
-          "text": "Odpowiedź A",
+          "text": "Zazwyczaj odwiedzam znajomych i gramy w planszówki",
           "characterClass": "netrunner"
-        },
-        {
-          "text": "Odpowiedź B",
-          "characterClass": "media"
-        },
-        {
-          "text": "Odpowiedź C",
-          "characterClass": "netrunner"
-        },
-        {
-          "text": "Odpowiedź D",
-          "characterClass": "media"
         }
       ]
     },
     {
-      "text": "Pytanie rozstrzygające (remis między netrunner i lawman)",
+      "text": "Czemu teraz nie ma cię w pracy?",
       "answers": [
         {
-          "text": "Odpowiedź A",
-          "characterClass": "netrunner"
+          "text": "Skończyły mi się części i klienci to poszedłem na miasto",
+          "characterClass": "ripperdoc"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "lawman"
+          "text": "Dowiesz się za parę godzin na billboardach!",
+          "characterClass": "reporter"
         },
         {
-          "text": "Odpowiedź C",
-          "characterClass": "netrunner"
+          "text": "Oj, nie chcesz wiedzieć, o ile nie interesują cię tajemnicze drzazgi",
+          "characterClass": "ripperdoc"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "lawman"
+          "text": "Zwolnili mnie, bo nie umiałem trzymać dzioba na kłódkę… Masz może coś ciekawego do opowiedzenia?",
+          "characterClass": "reporter"
         }
       ]
     },
     {
-      "text": "Pytanie rozstrzygające (remis między tech i rockerboy)",
+      "text": "Wróg jest na twojej łasce. Co z nim robisz?",
       "answers": [
         {
-          "text": "Odpowiedź A",
-          "characterClass": "tech"
+          "text": "Otwieram go i patrzę co ma w środku",
+          "characterClass": "ripperdoc"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "rockerboy"
+          "text": "Pytam, czy chce fuchę i stabilną wypłatę w tym świecie. Jasne, nie będzie lojalny, ale wszystko ma przecież cenę. Włącznie z lojalnością.",
+          "characterClass": "korpo"
         },
         {
-          "text": "Odpowiedź C",
-          "characterClass": "tech"
+          "text": "Po szybkich kalkulacjach pytam, czy radzi sobie z wiertarką i flakami na wierzchu.",
+          "characterClass": "ripperdoc"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "rockerboy"
+          "text": "Nie przyda się nam do niczego, kończę jego marny żywot",
+          "characterClass": "korpo"
         }
       ]
     },
     {
-      "text": "Pytanie rozstrzygające (remis między tech i fixer)",
+      "text": "Jaka jest twoja ulubiona broń?",
       "answers": [
         {
-          "text": "Odpowiedź A",
-          "characterClass": "tech"
+          "text": "Moje wierne dłuto i .50cal, nie zawiodły mnie jeszcze",
+          "characterClass": "ripperdoc"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "fixer"
+          "text": "Jeszcze się nie zdarzyło żebym jej potrzebował, jestem zbyt przydatny",
+          "characterClass": "ripperdoc"
         },
         {
-          "text": "Odpowiedź C",
-          "characterClass": "tech"
+          "text": "Ale broń biała czy spluweczki dozwolone? ",
+          "characterClass": "ripperdoc"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "fixer"
-        }
-      ]
-    },
-    {
-      "text": "Pytanie rozstrzygające (remis między tech i nomad)",
-      "answers": [
-        {
-          "text": "Odpowiedź A",
-          "characterClass": "tech"
-        },
-        {
-          "text": "Odpowiedź B",
-          "characterClass": "nomad"
-        },
-        {
-          "text": "Odpowiedź C",
-          "characterClass": "tech"
-        },
-        {
-          "text": "Odpowiedź D",
-          "characterClass": "nomad"
-        }
-      ]
-    },
-    {
-      "text": "Pytanie rozstrzygające (remis między tech i media)",
-      "answers": [
-        {
-          "text": "Odpowiedź A",
-          "characterClass": "tech"
-        },
-        {
-          "text": "Odpowiedź B",
-          "characterClass": "media"
-        },
-        {
-          "text": "Odpowiedź C",
-          "characterClass": "tech"
-        },
-        {
-          "text": "Odpowiedź D",
-          "characterClass": "media"
-        }
-      ]
-    },
-    {
-      "text": "Pytanie rozstrzygające (remis między tech i lawman)",
-      "answers": [
-        {
-          "text": "Odpowiedź A",
-          "characterClass": "tech"
-        },
-        {
-          "text": "Odpowiedź B",
-          "characterClass": "lawman"
-        },
-        {
-          "text": "Odpowiedź C",
-          "characterClass": "tech"
-        },
-        {
-          "text": "Odpowiedź D",
-          "characterClass": "lawman"
-        }
-      ]
-    },
-    {
-      "text": "Pytanie rozstrzygające (remis między rockerboy i fixer)",
-      "answers": [
-        {
-          "text": "Odpowiedź A",
-          "characterClass": "rockerboy"
-        },
-        {
-          "text": "Odpowiedź B",
-          "characterClass": "fixer"
-        },
-        {
-          "text": "Odpowiedź C",
-          "characterClass": "rockerboy"
-        },
-        {
-          "text": "Odpowiedź D",
+          "text": "Mój telefon z gotowym numerem",
           "characterClass": "fixer"
         }
       ]
     },
     {
-      "text": "Pytanie rozstrzygające (remis między rockerboy i nomad)",
+      "text": "Co robisz w razie porażki?",
       "answers": [
         {
-          "text": "Odpowiedź A",
-          "characterClass": "rockerboy"
+          "text": "Sprzedaję warsztat i zostaję edgerunnerem, nic innego mi nie zostaje",
+          "characterClass": "ripperdoc"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "nomad"
+          "text": "Ot, straciłem pacjenta. Jedyny problem jest taki, że części są drogie a on się nie wypłaci.",
+          "characterClass": "ripperdoc"
         },
         {
-          "text": "Odpowiedź C",
-          "characterClass": "rockerboy"
+          "text": "Mogę zawsze po prostu… Pojechać kilka kilometrów dalej",
+          "characterClass": "nomada"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "nomad"
+          "text": "Nic się nie stało, to i tak była praca u przyjaciela a on wie że chciałem dobrze",
+          "characterClass": "nomada"
         }
       ]
     },
     {
-      "text": "Pytanie rozstrzygające (remis między rockerboy i media)",
+      "text": "Trafiasz na informacje o korupcji w jednej z megakorporacji, których upublicznienie mogłoby wywołać wzburzenie wśród społeczeństwa. Co robisz?",
       "answers": [
         {
-          "text": "Odpowiedź A",
-          "characterClass": "rockerboy"
+          "text": "Chociaż personalnie nic z tym nie zrobisz, sprzedajesz informacje do konkurenta korporacji…Zawsze warto zyskać przychylność na przyszłość.",
+          "characterClass": "korpo"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "media"
+          "text": "Liczy się dla ciebie wiarygodność, więc zanim cokolwiek wypuścisz, poświęcasz czas na dodatkowy research.",
+          "characterClass": "reporter"
         },
         {
-          "text": "Odpowiedź C",
-          "characterClass": "rockerboy"
+          "text": "Bez wahania dzielisz się informacjami z publiką - zasługują, aby wiedzieć, co się dzieje.",
+          "characterClass": "reporter"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "media"
+          "text": "Próbujesz nawiązać współpracę z korporacją, licząc na korzyści wynikające z powiadomienia ich o przepływie informacji poza firmą.",
+          "characterClass": "korpo"
         }
       ]
     },
     {
-      "text": "Pytanie rozstrzygające (remis między rockerboy i lawman)",
+      "text": "Śnisz. Jest to miejsce, które wydaje się znajome, bezpieczne. Miejsce, które wprowadza Cię w dobry nastrój, w którym możesz odpocząć na chwilę. Jak wygląda?",
       "answers": [
         {
-          "text": "Odpowiedź A",
-          "characterClass": "rockerboy"
+          "text": "Skrawek ziemi przy brzegu jeziora. Przy rozpalonym w pobliżu ognisku zbierają się twoi bliscy, a ty masz chwilę na wzięcie oddechu, zanim do nich dołączysz.",
+          "characterClass": "nomada"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "lawman"
+          "text": "Kawa paruje z kubka w Twojej dłoni, ale to powiadomienie o raporcie oddanym dwa tygodnie przed deadlinem sprawia, że czujesz się jak młody bóg.",
+          "characterClass": "korpo"
         },
         {
-          "text": "Odpowiedź C",
-          "characterClass": "rockerboy"
+          "text": "Siedzisz za kierownicą samochodu, chwilowo nie martwiąc się o to, czy hamulce działają. W tym momencie liczysz się tylko ty, droga i prędkość.",
+          "characterClass": "nomada"
         },
         {
-          "text": "Odpowiedź D",
-          "characterClass": "lawman"
+          "text": "Najwyższy budynek w wielkim mieście, gdzie czujesz wiatr we włosach, a adrenalina skacze.",
+          "characterClass": "korpo"
         }
       ]
     },
     {
-      "text": "Pytanie rozstrzygające (remis między fixer i nomad)",
+      "text": "Jakie wartości Tobą kierują?",
       "answers": [
         {
-          "text": "Odpowiedź A",
+          "text": "Lojalność wobec twoich najbliższych i kontaktów.",
+          "characterClass": "nomada"
+        },
+        {
+          "text": "Ciekawość, która pozwala Ci gromadzić informacje różnej natury.",
           "characterClass": "fixer"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "nomad"
+          "text": "Pragnienie wolności, spotęgowane przez zanikającą autonomię w mieście.",
+          "characterClass": "nomada"
         },
         {
-          "text": "Odpowiedź C",
+          "text": "Interesowność - nie jesteś bezduszną osobą, ale chcesz przeżyć.",
           "characterClass": "fixer"
-        },
-        {
-          "text": "Odpowiedź D",
-          "characterClass": "nomad"
         }
       ]
     },
     {
-      "text": "Pytanie rozstrzygające (remis między fixer i media)",
+      "text": "Jak wyglądałaby zawieszka przy Twojej torbie?",
       "answers": [
         {
-          "text": "Odpowiedź A",
+          "text": "Pluszowy lis – tak jak ty, potrafi być bezwzględny i sprytny.",
+          "characterClass": "korpo"
+        },
+        {
+          "text": "Igła i nić w ozdobnym pudełeczku – jesteś osobą gotową naprawić każdą sytuację.",
           "characterClass": "fixer"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "media"
+          "text": "Droga błyskotka z Jinguji, dowód Twojej pierwszej wypłaty i nowej pozycji w hierarchii.",
+          "characterClass": "korpo"
         },
         {
-          "text": "Odpowiedź C",
+          "text": "Przy Twojej torbie wiszą wyłącznie klucze – skuteczne, użyteczne i otwierają wiele drzwi.",
           "characterClass": "fixer"
-        },
-        {
-          "text": "Odpowiedź D",
-          "characterClass": "media"
         }
       ]
     },
     {
-      "text": "Pytanie rozstrzygające (remis między fixer i lawman)",
+      "text": "Która czcionka do Ciebie przemawia:",
       "answers": [
         {
-          "text": "Odpowiedź A",
+          "text": "Times New Roman – elegancka, ale także o silnym przekazie.",
+          "characterClass": "reporter"
+        },
+        {
+          "text": "Comic Sans – być może wiele osób nie jest w stanie Ciebie znieść, ale przynajmniej ten ostracyzm społeczny przychodzi z wolnością.",
+          "characterClass": "nomada"
+        },
+        {
+          "text": "Arial – neutralna opcja, chcesz po prostu coś przekazać, nie dbając o ozdobniki. Twoja opinia znaczy więcej, niż prezentacja.",
+          "characterClass": "reporter"
+        },
+        {
+          "text": "Helvetica – silna, niezależna czcionka, która swoje piękno czerpie z niezawodności. Cool girl czcionek.",
+          "characterClass": "nomada"
+        }
+      ]
+    },
+    {
+      "text": "Z jakim kamieniem najbardziej rezonujesz?",
+      "answers": [
+        {
+          "text": "Labradoryt – wzmacnia intuicję, chroni przed złą energią.",
+          "characterClass": "reporter"
+        },
+        {
+          "text": "Onyks – pomaga w logicznym myśleniu, pobudza do działania.",
           "characterClass": "fixer"
         },
         {
-          "text": "Odpowiedź B",
-          "characterClass": "lawman"
+          "text": "Granat – wspomaga w przezwyciężaniu trudności, pomaga otworzyć się na zmiany.",
+          "characterClass": "reporter"
         },
         {
-          "text": "Odpowiedź C",
+          "text": "Jaspis – łagodzi konflikty, sprzyja dobrym relacjom z innymi.",
           "characterClass": "fixer"
-        },
-        {
-          "text": "Odpowiedź D",
-          "characterClass": "lawman"
-        }
-      ]
-    },
-    {
-      "text": "Pytanie rozstrzygające (remis między nomad i media)",
-      "answers": [
-        {
-          "text": "Odpowiedź A",
-          "characterClass": "nomad"
-        },
-        {
-          "text": "Odpowiedź B",
-          "characterClass": "media"
-        },
-        {
-          "text": "Odpowiedź C",
-          "characterClass": "nomad"
-        },
-        {
-          "text": "Odpowiedź D",
-          "characterClass": "media"
-        }
-      ]
-    },
-    {
-      "text": "Pytanie rozstrzygające (remis między nomad i lawman)",
-      "answers": [
-        {
-          "text": "Odpowiedź A",
-          "characterClass": "nomad"
-        },
-        {
-          "text": "Odpowiedź B",
-          "characterClass": "lawman"
-        },
-        {
-          "text": "Odpowiedź C",
-          "characterClass": "nomad"
-        },
-        {
-          "text": "Odpowiedź D",
-          "characterClass": "lawman"
-        }
-      ]
-    },
-    {
-      "text": "Pytanie rozstrzygające (remis między media i lawman)",
-      "answers": [
-        {
-          "text": "Odpowiedź A",
-          "characterClass": "media"
-        },
-        {
-          "text": "Odpowiedź B",
-          "characterClass": "lawman"
-        },
-        {
-          "text": "Odpowiedź C",
-          "characterClass": "media"
-        },
-        {
-          "text": "Odpowiedź D",
-          "characterClass": "lawman"
         }
       ]
     }
