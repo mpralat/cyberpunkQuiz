@@ -24,6 +24,12 @@ public class GameManager : MonoBehaviour
     public CanvasGroup questionPanelGroup;
     private string MainPanelBackground = "background1";
 
+	// Gender Question Panel
+	public GameObject GenderQuestionPanel;
+    public Button mButton;
+    public Button fButton;
+    public Button nButton;
+
     // Result Panel
     public GameObject resultPanel;
     public Image resultImage;
@@ -72,6 +78,7 @@ public class GameManager : MonoBehaviour
         DescriptionBackground.enabled = false;
 
         MainPanel.SetActive(true);
+		GenderQuestionPanel.SetActive(false);
         resultPanel.SetActive(false);
         resultImage.enabled = true;
         SpiritDescription.enabled = false;
@@ -148,7 +155,7 @@ public class GameManager : MonoBehaviour
         if (tied.Count == 1)
         {
             scoreManager.CalculateCharacterClass();
-            ShowResult();
+	        ShowGenderQuestion();
         }
         else
         {
@@ -194,11 +201,7 @@ public class GameManager : MonoBehaviour
         scoreManager.ForceClass(characterClass);
         scoreManager.CalculateCharacterClass();
 
-        // add gender question here
-        // for now just set MALE
-        scoreManager.CurrentCharacterGender = ScoreManager.CharacterGender.Male;
-        
-        Invoke(nameof(ShowResult), 0.4f);
+        Invoke(nameof(ShowGenderQuestion), 0.4f);
     }
 
    TiebreakerQuestion FindTiebreakerQuestion(List<string> tiedClasses)
@@ -237,11 +240,32 @@ public class GameManager : MonoBehaviour
 
     return null;
 }
+	void ShowGenderQuestion()
+	{
+    	MainPanel.SetActive(false);
+    	GenderQuestionPanel.SetActive(true);
+  
+    	mButton.onClick.RemoveAllListeners();
+    	mButton.onClick.AddListener(() => OnGenderSelected(ScoreManager.CharacterGender.Male));
+    	fButton.onClick.RemoveAllListeners();
+    	fButton.onClick.AddListener(() => OnGenderSelected(ScoreManager.CharacterGender.Female));
+    	nButton.onClick.RemoveAllListeners();
+    	nButton.onClick.AddListener(() => OnGenderSelected(ScoreManager.CharacterGender.NonBinary));
+
+	}
+
+	void OnGenderSelected(ScoreManager.CharacterGender gender)
+	{
+    	scoreManager.CurrentCharacterGender = gender;
+        Invoke(nameof(ShowResult), 0.4f);
+	}
     
     void ShowResult()
     {
         Debug.Log("ShowResult");
         MainPanel.SetActive(false);
+    	GenderQuestionPanel.SetActive(false);
+		
         CharacterClass resultCharacterClass = scoreManager.CurrentCharacterClass;
         resultPanel.SetActive(true);
         resultText.text = $"Twoim wynikiem jest {resultCharacterClass.Name}!";
@@ -258,6 +282,7 @@ public class GameManager : MonoBehaviour
             btn.gameObject.SetActive(true);
 
         ShowDescription = false;
+       	ShowDescriptionButton.GetComponent<Image>().sprite = ShowDescriptionSprite;
         
         Start();
     }
