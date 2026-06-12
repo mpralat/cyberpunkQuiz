@@ -52,7 +52,7 @@ public class GameManager : MonoBehaviour
 
     bool isProcessing = false;
     Color selectedColor      = new Color(0.77f, 0.61f, 0.28f, 1f);
-    Color defaultButtonColor = new Color(1f, 1f, 1f, 0.5f);
+    Color defaultButtonColor = new Color(1f, 1f, 1f, 0.6f);
     Color defaultTextColor   = new Color(0.2901961f, 0.7921569f, 0.8156863f, 1f);
     float deselectedAlpha    = 0.7f;
 
@@ -247,7 +247,7 @@ public class GameManager : MonoBehaviour
 	{
     	MainPanel.SetActive(false);
     	GenderQuestionPanel.SetActive(true);
-
+        GenderQuestionPanel.GetComponent<Image>().color = Color.white;
         //bullshit wiem ale nie chce mi sie
         mButton.image.color = defaultButtonColor;
         mButton.GetComponentInChildren<TextMeshProUGUI>().color = defaultButtonColor;
@@ -314,8 +314,9 @@ public class GameManager : MonoBehaviour
 
     public void ToggleQuestionBackground()
     {
+        MainPanel.GetComponent<Image>().color = Color.white;
         if (MainPanelBackground == "background1")
-        {
+        { 
             MainPanel.GetComponent<Image>().sprite = Resources.Load<Sprite>("background2");
             MainPanelBackground = "background2";
         }
