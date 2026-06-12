@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      nomada_f_0: 4693598808646125758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

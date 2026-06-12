@@ -1,10 +1,11 @@
-using UnityEngine;
-using TMPro;
-using UnityEngine.UI;
 using System.Collections.Generic;
 using System.Linq;
-using ZXing;
+using TMPro;
+using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
+using ZXing;
+using static TMPro.SpriteAssetUtilities.TexturePacker_JsonArray;
 
 public class GameManager : MonoBehaviour
 {
@@ -40,6 +41,7 @@ public class GameManager : MonoBehaviour
     public TextMeshProUGUI SpiritDescription;
     public Sprite ShowCharacterSprite;
     public Sprite ShowDescriptionSprite;
+    public Image Frame;
 
     // Data
     private QuestionList loadedQuestions;
@@ -50,8 +52,8 @@ public class GameManager : MonoBehaviour
 
     bool isProcessing = false;
     Color selectedColor      = new Color(0.77f, 0.61f, 0.28f, 1f);
-    Color defaultButtonColor = new Color(1f, 1f, 1f, 1f);
-    Color defaultTextColor   = new Color(0.2f, 0.15f, 0.1f, 1f);
+    Color defaultButtonColor = new Color(1f, 1f, 1f, 0.6f);
+    Color defaultTextColor   = new Color(0.2901961f, 0.7921569f, 0.8156863f, 1f);
     float deselectedAlpha    = 0.7f;
 
     void Start()
@@ -155,7 +157,7 @@ public class GameManager : MonoBehaviour
         if (tied.Count == 1)
         {
             scoreManager.CalculateCharacterClass();
-	        ShowGenderQuestion();
+            ShowGenderQuestion();
         }
         else
         {
@@ -181,7 +183,7 @@ public class GameManager : MonoBehaviour
                 btn.gameObject.SetActive(true);
                 btn.GetComponentInChildren<TextMeshProUGUI>().text = tbq.answers[i].text;
                 btn.onClick.RemoveAllListeners();
-                btn.onClick.AddListener(() => OnTiebreakerSelected(classForThisButton));
+                btn.onClick.AddListener(() => OnTiebreakerSelected(classForThisButton, btn));
             }
             else
             {
@@ -190,14 +192,15 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    void OnTiebreakerSelected(string characterClass)
+    void OnTiebreakerSelected(string characterClass, Button chosen)
     {
         if (isProcessing) return;
         isProcessing = true;
 
         foreach (var btn in answerButtons)
             btn.gameObject.SetActive(true);
-
+        chosen.image.color = selectedColor;
+        chosen.GetComponentInChildren<TextMeshProUGUI>().color = defaultButtonColor;
         scoreManager.ForceClass(characterClass);
         scoreManager.CalculateCharacterClass();
 
@@ -244,19 +247,29 @@ public class GameManager : MonoBehaviour
 	{
     	MainPanel.SetActive(false);
     	GenderQuestionPanel.SetActive(true);
-  
-    	mButton.onClick.RemoveAllListeners();
-    	mButton.onClick.AddListener(() => OnGenderSelected(ScoreManager.CharacterGender.Male));
+        GenderQuestionPanel.GetComponent<Image>().color = Color.white;
+        //bullshit wiem ale nie chce mi sie
+        mButton.image.color = defaultButtonColor;
+        mButton.GetComponentInChildren<TextMeshProUGUI>().color = defaultButtonColor;
+        fButton.image.color = defaultButtonColor;
+        fButton.GetComponentInChildren<TextMeshProUGUI>().color = defaultButtonColor;
+        nButton.image.color = defaultButtonColor;
+        nButton.GetComponentInChildren<TextMeshProUGUI>().color = defaultButtonColor;
+
+        mButton.onClick.RemoveAllListeners();
+    	mButton.onClick.AddListener(() => OnGenderSelected(ScoreManager.CharacterGender.Male, mButton));
     	fButton.onClick.RemoveAllListeners();
-    	fButton.onClick.AddListener(() => OnGenderSelected(ScoreManager.CharacterGender.Female));
+    	fButton.onClick.AddListener(() => OnGenderSelected(ScoreManager.CharacterGender.Female, fButton));
     	nButton.onClick.RemoveAllListeners();
-    	nButton.onClick.AddListener(() => OnGenderSelected(ScoreManager.CharacterGender.NonBinary));
+    	nButton.onClick.AddListener(() => OnGenderSelected(ScoreManager.CharacterGender.NonBinary, nButton));
 
 	}
 
-	void OnGenderSelected(ScoreManager.CharacterGender gender)
-	{
-    	scoreManager.CurrentCharacterGender = gender;
+	void OnGenderSelected(ScoreManager.CharacterGender gender, Button chosen)
+    {
+        chosen.image.color = selectedColor;
+        chosen.GetComponentInChildren<TextMeshProUGUI>().color = defaultButtonColor;
+        scoreManager.CurrentCharacterGender = gender;
         Invoke(nameof(ShowResult), 0.4f);
 	}
     
@@ -268,7 +281,7 @@ public class GameManager : MonoBehaviour
 		
         CharacterClass resultCharacterClass = scoreManager.CurrentCharacterClass;
         resultPanel.SetActive(true);
-        resultText.text = $"Twoim wynikiem jest {resultCharacterClass.Name}!";
+        resultText.text = $"Twoim wynikiem jest\n {resultCharacterClass.Name}!";
         SpiritDescription.text = resultCharacterClass.Description;
 
 		string fileName = scoreManager.GetFileName(resultCharacterClass.Class);
@@ -293,6 +306,7 @@ public class GameManager : MonoBehaviour
         resultImage.enabled = !ShowDescription;
         SpiritDescription.enabled = ShowDescription;
         DescriptionBackground.enabled = ShowDescription;
+        Frame.enabled = !Frame.enabled;
 
         ShowDescriptionButton.GetComponent<Image>().sprite = 
             ShowDescription ? ShowCharacterSprite : ShowDescriptionSprite;
@@ -300,8 +314,9 @@ public class GameManager : MonoBehaviour
 
     public void ToggleQuestionBackground()
     {
+        MainPanel.GetComponent<Image>().color = Color.white;
         if (MainPanelBackground == "background1")
-        {
+        { 
             MainPanel.GetComponent<Image>().sprite = Resources.Load<Sprite>("background2");
             MainPanelBackground = "background2";
         }
