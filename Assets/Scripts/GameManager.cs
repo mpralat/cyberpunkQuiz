@@ -40,6 +40,7 @@ public class GameManager : MonoBehaviour
     public TextMeshProUGUI SpiritDescription;
     public Sprite ShowCharacterSprite;
     public Sprite ShowDescriptionSprite;
+    public Image Frame;
 
     // Data
     private QuestionList loadedQuestions;
@@ -50,8 +51,8 @@ public class GameManager : MonoBehaviour
 
     bool isProcessing = false;
     Color selectedColor      = new Color(0.77f, 0.61f, 0.28f, 1f);
-    Color defaultButtonColor = new Color(1f, 1f, 1f, 1f);
-    Color defaultTextColor   = new Color(0.2f, 0.15f, 0.1f, 1f);
+    Color defaultButtonColor = new Color(1f, 1f, 1f, 0.5f);
+    Color defaultTextColor   = new Color(0.2901961f, 0.7921569f, 0.8156863f, 1f);
     float deselectedAlpha    = 0.7f;
 
     void Start()
@@ -268,7 +269,7 @@ public class GameManager : MonoBehaviour
 		
         CharacterClass resultCharacterClass = scoreManager.CurrentCharacterClass;
         resultPanel.SetActive(true);
-        resultText.text = $"Twoim wynikiem jest {resultCharacterClass.Name}!";
+        resultText.text = $"Twoim wynikiem\n jest {resultCharacterClass.Name}!";
         SpiritDescription.text = resultCharacterClass.Description;
 
 		string fileName = scoreManager.GetFileName(resultCharacterClass.Class);
@@ -293,6 +294,7 @@ public class GameManager : MonoBehaviour
         resultImage.enabled = !ShowDescription;
         SpiritDescription.enabled = ShowDescription;
         DescriptionBackground.enabled = ShowDescription;
+        Frame.enabled = !Frame.enabled;
 
         ShowDescriptionButton.GetComponent<Image>().sprite = 
             ShowDescription ? ShowCharacterSprite : ShowDescriptionSprite;
