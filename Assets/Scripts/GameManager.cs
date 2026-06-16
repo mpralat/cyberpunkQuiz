@@ -23,7 +23,7 @@ public class GameManager : MonoBehaviour
     public Button[] answerButtons;
     public TextAsset questionsJson;
     public CanvasGroup questionPanelGroup;
-    private string MainPanelBackground = "background1";
+    private string MainPanelBackground = "nightcity_wersja_3";
 
 	// Gender Question Panel
 	public GameObject GenderQuestionPanel;
@@ -315,15 +315,15 @@ public class GameManager : MonoBehaviour
     public void ToggleQuestionBackground()
     {
         MainPanel.GetComponent<Image>().color = Color.white;
-        if (MainPanelBackground == "background1")
+        if (MainPanelBackground == "nightcity_wersja_3")
         { 
-            MainPanel.GetComponent<Image>().sprite = Resources.Load<Sprite>("background2");
-            MainPanelBackground = "background2";
+            MainPanel.GetComponent<Image>().sprite = Resources.Load<Sprite>("arasaka_wersja_3");
+            MainPanelBackground = "arasaka_wersja_3";
         }
         else
         {
-            MainPanel.GetComponent<Image>().sprite = Resources.Load<Sprite>("background1");
-            MainPanelBackground = "background1";
+            MainPanel.GetComponent<Image>().sprite = Resources.Load<Sprite>("nightcity_wersja_3");
+            MainPanelBackground = "nightcity_wersja_3";
         }
     }
     
