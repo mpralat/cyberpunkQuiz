@@ -112,21 +112,13 @@ public class ScoreManager
 
     public string GetFileName(string className)
     {
-        // todo remove once we've got all portraits
-        string[] availablePortraits = { "netrunner", "nomada", "reporter", "ripperdoc" };
-
-        if (availablePortraits.Contains(className))
+        string suffix = _currentCharacterGender switch
         {
-            string suffix = _currentCharacterGender switch
-            {
-                CharacterGender.Female => "f",
-                CharacterGender.Male => "m",
-                CharacterGender.NonBinary => "n",
-                _ => "m"
-            };
-            return $"{className}_{suffix}";
-        }
-
-        return "johnyy";
+            CharacterGender.Female => "f",
+            CharacterGender.Male => "m",
+            CharacterGender.NonBinary => "n",
+            _ => "m"
+        };
+        return $"{className}_{suffix}";
     }
 }

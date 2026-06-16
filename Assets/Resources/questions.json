@@ -4,40 +4,40 @@
       "text": "Co cenisz w życiu najbardziej?",
       "answers": [
         {
-          "text": "Rodzinę i lojalność",
+          "text": "Rodzinę i lojalność.",
           "characterClass": "nomada"
         },
         {
-          "text": "Wyzwanie i ryzyko",
+          "text": "Wyzwanie i ryzyko.",
           "characterClass": "solo"
         },
         {
-          "text": "Pieniądze i wpływy",
+          "text": "Pieniądze i wpływy.",
           "characterClass": "korpo"
         },
         {
-          "text": "Wolność i swobodę",
+          "text": "Wolność i swobodę.",
           "characterClass": "rocker"
         }
       ]
     },
     {
-      "text": "Jakie jest twoje marzenie?",
+      "text": "O czym marzysz?",
       "answers": [
         {
-          "text": "Mieć pełną kontrolę nad swoim życiem",
+          "text": "O pełnej kontroli nad swoim życiem.",
           "characterClass": "fixer"
         },
         {
-          "text": "Osiągnąć mistrzostwo w wybranej dziedzinie",
+          "text": "O osiągnięciu mistrzostwa w wybranej dziedzinie.",
           "characterClass": "netrunner"
         },
         {
-          "text": "Móc realnie wpłynąć na los ludzi",
+          "text": "O posiadaniu realnego wpływu na los człowieczeństwa.",
           "characterClass": "reporter"
         },
         {
-          "text": "Uczciwie zarobić na spokojną emeryturę",
+          "text": "O uczciwie zapracowanej, spokojnej starości.",
           "characterClass": "ripperdoc"
         }
       ]
@@ -46,19 +46,19 @@
       "text": "Które zdanie najlepiej Cię opisuje?",
       "answers": [
         {
-          "text": "Lepiej czuję się z maszynami niż wśród ludzi",
+          "text": "Lepiej czuję się w towarzystwie maszyn niż ludzi.",
           "characterClass": "netrunner"
         },
         {
-          "text": "Zawsze wiem czego chcę i jak to osiągnąć",
+          "text": "Zawsze wiem czego chcę i jak to osiągnąć.",
           "characterClass": "korpo"
         },
         {
-          "text": "Znam wszystkie najnowsze plotki i newsy",
+          "text": "Znam wszystkie najgorętsze plotki i newsy.",
           "characterClass": "reporter"
         },
         {
-          "text": "W towarzystwie błyszczę jak nikt inny",
+          "text": "W towarzystwie błyszczę jak nikt inny.",
           "characterClass": "rocker"
         }
       ]
@@ -67,32 +67,32 @@
       "text": "Spotykasz człowieka w potrzebie. Co robisz?",
       "answers": [
         {
-          "text": "Muszę się martwić o siebie, nie mogę mu pomóc",
+          "text": "Nic, mam wystarczająco dużo własnych zmartwień.",
           "characterClass": "solo"
         },
         {
-          "text": "Pomogę, jeśli to ktoś mi bliski",
+          "text": "Pomogę tylko jeśli to ktoś z moich bliskich.",
           "characterClass": "nomada"
         },
         {
-          "text": "Jeśli mu pomogę, będzie miał u mnie dług do spłacenia",
+          "text": "Pomogę mu, bo będzie miał u mnie dług do spłacenia.",
           "characterClass": "fixer"
         },
         {
-          "text": "Wspieram go, jak mogę, odwdzięczy się, jeśli będzie mógł",
+          "text": "Pomagam, jak tylko mogę, może kiedyś mi się odwdzięczy.",
           "characterClass": "ripperdoc"
         }
       ]
     },
     {
-      "text": "Zdradził, Cię przyjaciel. Jak na to reagujesz?",
+      "text": "Zdradził Cię przyjaciel. Jak na to reagujesz?",
       "answers": [
         {
-          "text": "Zachowuję zimną krew i zaczynam planować jego upadek",
+          "text": "Zachowuję zimną krew i zaczynam planować jego upadek.",
           "characterClass": "korpo"
         },
         {
-          "text": "Zapłaci mi za to, gdy tylko go zobaczę",
+          "text": "Zapłaci mi za to, gdy tylko go zobaczę.",
           "characterClass": "solo"
         },
         {
@@ -100,34 +100,34 @@
           "characterClass": "rocker"
         },
         {
-          "text": "Ujawniam jego zdradę, by ostrzec innych",
+          "text": "Ujawniam jego czyn, by ostrzec innych.",
           "characterClass": "reporter"
         }
       ]
     },
     {
-      "text": "Jaki, przedmiot zawsze chciałbyś mieć przy sobie?",
+      "text": "Jaki przedmiot chciałbyś zawsze mieć przy sobie?",
       "answers": [
         {
-          "text": "Kluczyki do mojej bryki",
+          "text": "Kluczyki do mojej bryki.",
           "characterClass": "nomada"
         },
         {
-          "text": "Dysk z najważniejszymi danymi",
+          "text": "Dysk z najważniejszymi danymi.",
           "characterClass": "netrunner"
         },
         {
-          "text": "Apteczkę",
+          "text": "Apteczkę.",
           "characterClass": "ripperdoc"
         },
         {
-          "text": "Zdjęcie z najbliższymi",
+          "text": "Zdjęcie z najbliższymi.",
           "characterClass": "fixer"
         }
       ]
     },
     {
-      "text": "Ktoś, Cię śledzi. Wiesz że nie ma dobrych zamiarów. Co robisz?",
+      "text": "Ktoś Cię śledzi. Czujesz, że nie ma dobrych zamiarów. Co robisz?",
       "answers": [
         {
           "text": "Dzwonię po wsparcie.",
@@ -138,32 +138,32 @@
           "characterClass": "solo"
         },
         {
-          "text": "Wiem wszystko o tym mieście i mieszkańcach, więc jeżeli ten ktoś chce mnie zaskoczyć, to czeka ich zawód.",
+          "text": "Wiem wszystko o tym mieście i mieszkańcach, nie dam się zaskoczyć.",
           "characterClass": "fixer"
         },
         {
-          "text": "Pewnie chce autograf. Zresztą, nie ma sytuacji, z której nie jestem w stanie się wydostać gadaniem.",
+          "text": "To pewnie mój fan. Zresztą - potrafię się dogadać z każdym.",
           "characterClass": "rocker"
         }
       ]
     },
     {
-      "text": "Co zwykle sądzisz o ludziach?",
+      "text": "Jakie jest twoje podejście do ludzi?",
       "answers": [
         {
-          "text": "Zasługują na to, żeby podejmować poinformowane decyzje o swoim życiu.",
+          "text": "Zasługują na to, żeby świadomie decydować o swoim życiu.",
           "characterClass": "reporter"
         },
         {
-          "text": "Bacznie ich obserwuję, bo przecież kiedyś mogą się mi przydać. Niezależnie od tego, czy są tego świadomi.",
+          "text": "Interesuje mnie jak mogę ich wykorzystać do własnych celów, dlatego bacznie ich obserwuję.",
           "characterClass": "korpo"
         },
         {
-          "text": "Praca w zespole to mój chleb powszedni, więc opinia zmienia się w zależności od ich kompetencji.",
+          "text": "To zależy od ich kompetencji - cenię sobie pracę w zgranym zespole.",
           "characterClass": "netrunner"
         },
         {
-          "text": "Pomagam wszystkim tak, jak mogę, ale w pewnym momencie oni też będą musieli zacząć dbać o siebie samych.",
+          "text": "Jestem pomocny, ale moje zasoby nie są bez limitu.",
           "characterClass": "ripperdoc"
         }
       ]
@@ -172,40 +172,40 @@
       "text": "W jakim towarzystwie czujesz się najlepiej?",
       "answers": [
         {
-          "text": "Dźwięk muzyki w tle, tańczący ludzie, którzy mają coś do powiedzenia i pragną zmiany.",
+          "text": "Muzyka, taniec i aktywni ludzie pragnący zmiany.",
           "characterClass": "rocker"
         },
         {
-          "text": "Póki mi płacą, jestem w stanie odnaleźć się w każdym towarzystwie.",
+          "text": "Odnajdę się w każdym towarzystwie, dopóki mi zapłacą.",
           "characterClass": "solo"
         },
         {
-          "text": "Obecność najbliższej rodziny i przyjaciół zapewnia mi komfort.",
+          "text": "Najbliższa rodzina i przyjaciele, cenię sobie komfort.",
           "characterClass": "nomada"
         },
         {
-          "text": "Zaufane osoby, przy których nie muszę się cały czas pilnować lub targować.",
+          "text": "Zaufane osoby, przy których nie muszę mieć się na baczności.",
           "characterClass": "fixer"
         }
       ]
     },
     {
-      "text": "Wybierasz perfumy. Jaka główna nuta do Ciebie przemawia?",
+      "text": "Wybierasz perfumy. Która nuta najbardziej do Ciebie przemawia?",
       "answers": [
         {
-          "text": "Trawa cytrynowa - przenikliwa, orzeźwiająca. Informuje innych, że nic nie umyka Twojej uwadze.",
+          "text": "Trawa cytrynowa - przenikliwa, orzeźwiająca. Nic nie umyka Twojej uwadze.",
           "characterClass": "reporter"
         },
         {
-          "text": "Paczula - upojny, intensywny zapach. Jesteś kimś, kto bez problemu dominuje konwersację… a być może nią nawet manipuluje.",
+          "text": "Paczula - odurzający, intensywny zapach. Bez problemu dominujesz każdą konwersację.",
           "characterClass": "korpo"
         },
         {
-          "text": "Ylang-ylang - kwiatowa, delikatna nuta. Chociaż czasami twoja obecność może nie być krzykliwa i od razu zauważalna, to nie daje o sobie zapomnieć.",
+          "text": "Ylang-ylang - kwiatowa, delikatna. Nie rzucasz się w oczy, ale zapadasz w pamięć.",
           "characterClass": "netrunner"
         },
         {
-          "text": "Białe piżmo - kojący, słodki zapach. Ludzie ci ufają, a ty raczej starasz się tego zaufania nie nadużywać.",
+          "text": "Białe piżmo - kojące, słodkie. Wzbudzasz zaufanie.",
           "characterClass": "ripperdoc"
         }
       ]
@@ -213,10 +213,10 @@
   ],
   "tiebreakerQuestions": [
     {
-      "text": "Gdybyś miał coś zmienić w mieście, wybierzesz:",
+      "text": "W jaki sposób dokonałbyś zmiany?",
       "answers": [
         {
-          "text": "Tworzenie inspirującej sztuki, która porwie tłumy.",
+          "text": "Tworząc sztukę, która porwie i zainspiruje tłumy.",
           "characterClass": "rocker"
         },
         {
@@ -224,24 +224,24 @@
           "characterClass": "rocker"
         },
         {
-          "text": "Działanie w cieniu, by osiągnąć swoje cele.",
+          "text": "Działając w cieniu, z dala od uwagi mas.",
           "characterClass": "solo"
         },
         {
-          "text": "Wdrożenie nowych technologii, rozwiązujących problemy.",
+          "text": "Dzięki nowym technologiom.",
           "characterClass": "solo"
         }
       ]
     },
     {
-      "text": "Przed Tobą stoi zamknięta korporacyjna placówka. Jak dostajesz się do środka?",
+      "text": "Przed Tobą zamknięta korporacyjna placówka. Jak dostajesz się do środka?",
       "answers": [
         {
-          "text": "Głównym wejściem, nikt nie dorówna Ci siłą w bezpośrednim starciu.",
+          "text": "Głównym wejściem, w bezpośrednim starciu nie mam sobie równych.",
           "characterClass": "solo"
         },
         {
-          "text": "Sprawiasz, że system sam wpuszcza Cię przez drzwi.",
+          "text": "Sprawiam, że system sam mnie wpuszcza.",
           "characterClass": "netrunner"
         },
         {
@@ -249,7 +249,7 @@
           "characterClass": "netrunner"
         },
         {
-          "text": "Dziura w ścianie brzmi najbardziej spektakularnie.",
+          "text": "Wyrwa w ścianie brzmi najbardziej spektakularnie.",
           "characterClass": "solo"
         }
       ]
@@ -258,28 +258,28 @@
       "text": "Gdzie najczęściej można Cię znaleźć?",
       "answers": [
         {
-          "text": "W centrum uwagi.",
+          "text": "Na imprezie, w klubie.",
           "characterClass": "rocker"
         },
         {
-          "text": "W Twoim pokoju.",
+          "text": "We własnym pokoju.",
           "characterClass": "ripperdoc"
         },
         {
-          "text": "W warsztacie albo w garażu.",
+          "text": "W warsztacie lub garażu.",
           "characterClass": "ripperdoc"
         },
         {
-          "text": "Na imprezie w klubie.",
+          "text": "W centrum uwagi.",
           "characterClass": "rocker"
         }
       ]
     },
     {
-      "text": "Co, jest najskuteczniejszą bronią przeciw korporacjom?",
+      "text": "Co jest najskuteczniejszą bronią przeciw korporacjom?",
       "answers": [
         {
-          "text": "Tłum gotowy do buntu.",
+          "text": "Gotowy do buntu tłum.",
           "characterClass": "rocker"
         },
         {
@@ -287,7 +287,7 @@
           "characterClass": "reporter"
         },
         {
-          "text": "Charyzmatyczny przywódca ludu.",
+          "text": "Charyzmatyczny przywódca.",
           "characterClass": "rocker"
         },
         {
@@ -297,10 +297,10 @@
       ]
     },
     {
-      "text": "Korporacja, proponuje Ci awans w zamian za milczenie. Co robisz?",
+      "text": "Korporacja proponuje Ci awans w zamian za milczenie. Co robisz?",
       "answers": [
         {
-          "text": "Nie sprzedaję swoich przekonań i głośno o tym mówię.",
+          "text": "Nie sprzedam swoich przekonań, nagłaśniam sprawę.",
           "characterClass": "rocker"
         },
         {
@@ -308,32 +308,32 @@
           "characterClass": "rocker"
         },
         {
-          "text": "Przyjmuję ofertę. Z korposami trzeba grać w ich własną grę, jeśli chce się coś osiągnąć.",
+          "text": "Przyjmuję ofertę, wiem jak działa ten świat.",
           "characterClass": "korpo"
         },
         {
-          "text": "Jeśli zapewni mi to święty spokój i lepsze zarobki, dlaczego by nie rozważyć tej oferty?",
+          "text": "Skoro zapewni mi to święty spokój i lepsze zarobki, to czemu by nie?",
           "characterClass": "korpo"
         }
       ]
     },
     {
-      "text": "Co daje Ci realną siłę?",
+      "text": "Która myśl daje Ci siłę?",
       "answers": [
         {
-          "text": "To, że ludzie ode mnie zależą.",
+          "text": "Ludzie ode mnie zależą.",
           "characterClass": "fixer"
         },
         {
-          "text": "To, że ludzie mnie słuchają.",
+          "text": "Ludzie mnie słuchają.",
           "characterClass": "rocker"
         },
         {
-          "text": "To, że każdy mnie zna.",
+          "text": "Każdy mnie zna.",
           "characterClass": "rocker"
         },
         {
-          "text": "To, że każdy wisi mi przysługę.",
+          "text": "Ludzie mają u mnie długi.",
           "characterClass": "fixer"
         }
       ]
@@ -342,11 +342,11 @@
       "text": "Kto jest dla Ciebie najważniejszy?",
       "answers": [
         {
-          "text": "Moja rodzina.",
+          "text": "Rodzina.",
           "characterClass": "nomada"
         },
         {
-          "text": "Moi przyjaciele.",
+          "text": "Przyjaciele.",
           "characterClass": "nomada"
         },
         {
@@ -354,28 +354,28 @@
           "characterClass": "rocker"
         },
         {
-          "text": "Wszyscy ludzie.",
+          "text": "Nikt konkretny.",
           "characterClass": "rocker"
         }
       ]
     },
     {
-      "text": "W Night City najbardziej polegasz na:",
+      "text": "W Night City najbardziej polegasz na swojej:",
       "answers": [
         {
-          "text": "Swojej inteligencji.",
+          "text": "Inteligencji.",
           "characterClass": "netrunner"
         },
         {
-          "text": "Swojej charyzmie.",
+          "text": "Charyzmie.",
           "characterClass": "rocker"
         },
         {
-          "text": "Swojej kreatywności.",
+          "text": "Kreatywności.",
           "characterClass": "rocker"
         },
         {
-          "text": "Swojej technologii.",
+          "text": "Technologii.",
           "characterClass": "netrunner"
         }
       ]
@@ -384,15 +384,15 @@
       "text": "Gdy pojawia się zagrożenie…",
       "answers": [
         {
-          "text": "Reaguję natychmiast i je eliminuję.",
+          "text": "Natychmiast je eliminuję.",
           "characterClass": "solo"
         },
         {
-          "text": "Poprawiam swój “sprzęt”, żeby zwiększyć swoje szanse.",
+          "text": "Ulepszam swoje wyposażenie.",
           "characterClass": "ripperdoc"
         },
         {
-          "text": "Kupuję nową broń, w sam raz na nowe wyzwania.",
+          "text": "Nowe wyzwania? Kupuję nową broń.",
           "characterClass": "solo"
         },
         {
@@ -405,19 +405,19 @@
       "text": "Gdy widzę niesprawiedliwość…",
       "answers": [
         {
-          "text": "działam od razu, bez wahania.",
+          "text": "Działam od razu, bez wahania.",
           "characterClass": "solo"
         },
         {
-          "text": "zgłaszam ją na policję, by zajęły się tym odpowiednie instytucje.",
+          "text": "Zgłaszam to do odpowiednich służb.",
           "characterClass": "reporter"
         },
         {
-          "text": "staram się nie działać pochopnie i najpierw robię research.",
+          "text": "Badam sprawę, zachowując ostrożność.",
           "characterClass": "reporter"
         },
         {
-          "text": "nie liczę na pomoc instytucji i stawiam na oddolne działania.",
+          "text": "Zamiast liczyć na pomoc z góry, biorę się do roboty.",
           "characterClass": "solo"
         }
       ]
@@ -426,15 +426,15 @@
       "text": "Jaką pracę preferujesz?",
       "answers": [
         {
-          "text": "Stabilny zawód, w uporządkowanym systemie i z jasnymi zasadami.",
+          "text": "Stabilną, klarowną, jako część systemu.",
           "characterClass": "korpo"
         },
         {
-          "text": "Indywidualną, w której wykonanie powierzonego zadania zależy tylko od Ciebie.",
+          "text": "Indywidualną, gdzie wszystko zależy ode mnie.",
           "characterClass": "solo"
         },
         {
-          "text": "Posiadanie własnej firmy to Twoje marzenie.",
+          "text": "We własnej firmie - to moje marzenie.",
           "characterClass": "solo"
         },
         {
@@ -451,15 +451,15 @@
           "characterClass": "solo"
         },
         {
-          "text": "Polegam tylko na sobie.",
+          "text": "Polegając tylko na sobie.",
           "characterClass": "solo"
         },
         {
-          "text": "Znajduję kogoś, kto rozwiąże problem za mnie.",
+          "text": "Znajdując kogoś, kto rozwiąże je za mnie.",
           "characterClass": "fixer"
         },
         {
-          "text": "Wykorzystuję swoje kontakty i znajomości.",
+          "text": "Wykorzystując moje kontakty i znajomości.",
           "characterClass": "fixer"
         }
       ]
@@ -486,85 +486,85 @@
       ]
     },
     {
-      "text": "Co cenisz w życiu najbardziej?",
+      "text": "Nie ma to jak...",
       "answers": [
         {
-          "text": "Spokojny wieczór we własnej pracowni",
+          "text": "Spokojny wieczór we własnej pracowni.",
           "characterClass": "ripperdoc"
         },
         {
-          "text": "Dobre piwko przy dobrym serialu w dobrym towarzystwie",
+          "text": "Dobra zabawa ze znajomymi.",
           "characterClass": "netrunner"
         },
         {
-          "text": "Kiedy nie mam żadnej pracy i mogę w spokoju poszukać informacji",
+          "text": "Brak pracy, pozwalający mi szukać przydatnych informacji.",
           "characterClass": "netrunner"
         },
         {
-          "text": "Znajomości, które same do mnie przychodzą",
+          "text": "Znajomości, które same do mnie przychodzą.",
           "characterClass": "ripperdoc,"
         }
       ]
     },
     {
-      "text": "Gdyby była możliwość poznania twojego ulubionego celebryty…",
+      "text": "Co gdybyć mógł poznać swojego ulubionego celebrytę?",
       "answers": [
         {
-          "text": "Nie mam po co, wiem już o nich wszystko co mogę",
+          "text": "Nic - i tak już wszystko o nim wiem.",
           "characterClass": "netrunner"
         },
         {
-          "text": "Wolę nie, moi idole by mnie zmiażdżyli",
+          "text": "Wolę nie, moi idole by mnie zmiażdżyli.",
           "characterClass": "reporter"
         },
         {
-          "text": "Jasne, czemu nie",
+          "text": "Jasne, czemu nie?",
           "characterClass": "netrunner"
         },
         {
-          "text": "Ooo i mogę się dopytać o ich nowe wszczepy!!",
+          "text": "Muszę go dopytać o nowe wszczepy!",
           "characterClass": "reporter,"
         }
       ]
     },
     {
-      "text": "Jakie masz ulubione zwierzę?",
+      "text": "Jakie zwierzęta lubisz najbardziej?",
       "answers": [
         {
           "text": "Nie lubię zwierząt",
           "characterClass": "netrunner"
         },
         {
-          "text": "Szczury. Ludzie mi mówią, że są brudne, ale to inteligentne stworzenia. I przetrwają w każdych warunkach.",
+          "text": "Szczury. Przetrwają w każdych warunkach.",
           "characterClass": "korpo"
         },
         {
-          "text": "W sumie to zające są spoko, w razie problemów zawsze zwieją",
+          "text": "Zające. W razie problemów mogą po prostu uciec.",
           "characterClass": "netrunner"
         },
         {
-          "text": "Zawsze podobały mi się owady, szczególnie pająki czychające na zdobycz",
+          "text": "Pająki. Fascynuje mnie jak czychają na zdobycz.",
           "characterClass": "korpo,"
         }
       ]
     },
     {
-      "text": "Gdybyś potrzebował coś od kogoś ukraść, jak byś to zrobił?",
+      "text": "W jaki sposób dokonałbyś kradzieży?",
       "answers": [
         {
-          "text": "Czemu miałbym? Wolę zlecić to komu innemu",
+          "text": "Zlecając to komuś innemu.",
           "characterClass": "fixer"
         },
         {
-          "text": "Najlepiej jest zawsze po cichu, tak żeby nikt się nawet nie zorientował że tam byłeś.",
+          "text": "Jak najciszej, nie zostawiając żadnych śladów.",
           "characterClass": "netrunner"
         },
         {
-          "text": "Zadzwoniłbym po paru znajomych i zhackował zabezpieczenia tak, żeby ta rzecz sama do mnie przyszła",
+          "text": "Dzwoniąc po paru znajomych, hackując zabezpieczenia.",
           "characterClass": "netrunner"
         },
         {
-          "text": "Na pewno nie szedłbym tam samemu, tyle ci mogę od razu powiedzieć",
+          "text": "Na pewno nie działałbym sam.",
           "characterClass": "fixer,"
         }
       ]
@@ -573,7 +573,7 @@
       "text": "W jaki sposób zazwyczaj spędzasz święta?",
       "answers": [
         {
-          "text": "Z kumplami i rodziną, zjeżdżamy się i opowiadamy historie",
+          "text": "Z kumplami i rodziną. Zjeżdżamy się i opowiadamy historie.",
           "characterClass": "nomada"
         },
         {
@@ -581,11 +581,11 @@
           "characterClass": "netrunner"
         },
         {
-          "text": "Niestety rodzinę mi wybili Kosiarze, ale zawsze mam mojego psa!",
+          "text": "Z moim wiernym psem, tylko on mi został.",
           "characterClass": "nomada"
         },
         {
-          "text": "Zazwyczaj odwiedzam znajomych i gramy w planszówki",
+          "text": "Odwiedzam znajomych i gramy w planszówki.",
           "characterClass": "netrunner"
         }
       ]
@@ -594,40 +594,40 @@
       "text": "Czemu teraz nie ma cię w pracy?",
       "answers": [
         {
-          "text": "Skończyły mi się części i klienci to poszedłem na miasto",
+          "text": "Skończyli mi się klienci.",
           "characterClass": "ripperdoc"
         },
         {
-          "text": "Dowiesz się za parę godzin na billboardach!",
+          "text": "Dowiesz się z billboardów za parę godzin!",
           "characterClass": "reporter"
         },
         {
-          "text": "Oj, nie chcesz wiedzieć, o ile nie interesują cię tajemnicze drzazgi",
+          "text": "Nie chcesz wiedzieć. Chyba, że byłbyś zainteresowany zakupem.",
           "characterClass": "ripperdoc"
         },
         {
-          "text": "Zwolnili mnie, bo nie umiałem trzymać dzioba na kłódkę… Masz może coś ciekawego do opowiedzenia?",
+          "text": "Zostałem zwolniony za mówienie prawdy.",
           "characterClass": "reporter"
         }
       ]
     },
     {
-      "text": "Wróg jest na twojej łasce. Co z nim robisz?",
+      "text": "Los Twojego wroga zależy od Ciebie. Co robisz?",
       "answers": [
         {
-          "text": "Otwieram go i patrzę co ma w środku",
+          "text": "Zaglądam do jego wnętrza. Ewentualnie najpierw pozbawiam życia.",
           "characterClass": "ripperdoc"
         },
         {
-          "text": "Pytam, czy chce fuchę i stabilną wypłatę w tym świecie. Jasne, nie będzie lojalny, ale wszystko ma przecież cenę. Włącznie z lojalnością.",
+          "text": "Proponuję mu pracę. Lojalność można kupić.",
           "characterClass": "korpo"
         },
         {
-          "text": "Po szybkich kalkulacjach pytam, czy radzi sobie z wiertarką i flakami na wierzchu.",
+          "text": "Pytam jak radzi sobie z wiertarką i flakami na wierzchu.",
           "characterClass": "ripperdoc"
         },
         {
-          "text": "Nie przyda się nam do niczego, kończę jego marny żywot",
+          "text": "Nie przyda się nam do niczego, więc się go pozbywam.",
           "characterClass": "korpo"
         }
       ]
@@ -636,82 +636,82 @@
       "text": "Jaka jest twoja ulubiona broń?",
       "answers": [
         {
-          "text": "Moje wierne dłuto i .50cal, nie zawiodły mnie jeszcze",
+          "text": "Dłuto i .50cal, jeszcze nigdy mnie nie zawiodły.",
           "characterClass": "ripperdoc"
         },
         {
-          "text": "Jeszcze się nie zdarzyło żebym jej potrzebował, jestem zbyt przydatny",
+          "text": "Nie potrzebuję broni, jestem zbyt przydatny.",
           "characterClass": "ripperdoc"
         },
         {
-          "text": "Ale broń biała czy spluweczki dozwolone? ",
+          "text": "Ale broń biała czy spluweczki dozwolone?",
           "characterClass": "ripperdoc"
         },
         {
-          "text": "Mój telefon z gotowym numerem",
+          "text": "Mój telefon i kontakty.",
           "characterClass": "fixer"
         }
       ]
     },
     {
-      "text": "Co robisz w razie porażki?",
+      "text": "Co robisz w przypadku porażki w pracy?",
       "answers": [
         {
-          "text": "Sprzedaję warsztat i zostaję edgerunnerem, nic innego mi nie zostaje",
+          "text": "Sprzedaję warsztat i zostaję edgerunnerem, nie mam już innych opcji.",
           "characterClass": "ripperdoc"
         },
         {
-          "text": "Ot, straciłem pacjenta. Jedyny problem jest taki, że części są drogie a on się nie wypłaci.",
+          "text": "Ot, straciłem pacjenta. Szkoda tylko, że części są drogie a on się nie wypłaci.",
           "characterClass": "ripperdoc"
         },
         {
-          "text": "Mogę zawsze po prostu… Pojechać kilka kilometrów dalej",
+          "text": "Zawsze mogę po prostu… Pojechać kilka kilometrów dalej.",
           "characterClass": "nomada"
         },
         {
-          "text": "Nic się nie stało, to i tak była praca u przyjaciela a on wie że chciałem dobrze",
+          "text": "Nic się nie stało, to była praca u przyjaciela. Wie, że chciałem dobrze.",
           "characterClass": "nomada"
         }
       ]
     },
     {
-      "text": "Trafiasz na informacje o korupcji w jednej z megakorporacji, których upublicznienie mogłoby wywołać wzburzenie wśród społeczeństwa. Co robisz?",
+      "text": "Znajdujesz dowody na korupcję w jednej z megakorporacji. Co robisz?",
       "answers": [
         {
-          "text": "Chociaż personalnie nic z tym nie zrobisz, sprzedajesz informacje do konkurenta korporacji…Zawsze warto zyskać przychylność na przyszłość.",
+          "text": "Sprzedajesz je konkurencji.",
           "characterClass": "korpo"
         },
         {
-          "text": "Liczy się dla ciebie wiarygodność, więc zanim cokolwiek wypuścisz, poświęcasz czas na dodatkowy research.",
+          "text": "Starannie weryfikujesz ich wiarygodność.",
           "characterClass": "reporter"
         },
         {
-          "text": "Bez wahania dzielisz się informacjami z publiką - zasługują, aby wiedzieć, co się dzieje.",
+          "text": "Bez wahania je upubliczniasz.",
           "characterClass": "reporter"
         },
         {
-          "text": "Próbujesz nawiązać współpracę z korporacją, licząc na korzyści wynikające z powiadomienia ich o przepływie informacji poza firmą.",
+          "text": "Powiadamiasz ją o tym, licząc na jakieś korzyści.",
           "characterClass": "korpo"
         }
       ]
     },
     {
-      "text": "Śnisz. Jest to miejsce, które wydaje się znajome, bezpieczne. Miejsce, które wprowadza Cię w dobry nastrój, w którym możesz odpocząć na chwilę. Jak wygląda?",
+      "text": "Śnisz o znajomym, bezpiecznym miejscu, w którym możesz na chwilę odpocząć. Jak ono wygląda?",
       "answers": [
         {
-          "text": "Skrawek ziemi przy brzegu jeziora. Przy rozpalonym w pobliżu ognisku zbierają się twoi bliscy, a ty masz chwilę na wzięcie oddechu, zanim do nich dołączysz.",
+          "text": "Skrawek ziemi przy brzegu jeziora. Przy ognisku nieopodal zbierają się Twoi bliscy.",
           "characterClass": "nomada"
         },
         {
-          "text": "Kawa paruje z kubka w Twojej dłoni, ale to powiadomienie o raporcie oddanym dwa tygodnie przed deadlinem sprawia, że czujesz się jak młody bóg.",
+          "text": "Twój dom, gorąca kawa i raport oddany dwa tygodnie przed deadlinem.",
           "characterClass": "korpo"
         },
         {
-          "text": "Siedzisz za kierownicą samochodu, chwilowo nie martwiąc się o to, czy hamulce działają. W tym momencie liczysz się tylko ty, droga i prędkość.",
+          "text": "Twój samochód pośrodku pustej ulicy. Tylko Ty, droga i prędkość.",
           "characterClass": "nomada"
         },
         {
-          "text": "Najwyższy budynek w wielkim mieście, gdzie czujesz wiatr we włosach, a adrenalina skacze.",
+          "text": "Dach najwyższego wieżowca w mieście. Wiatr we włosach i adrenalina.",
           "characterClass": "korpo"
         }
       ]
@@ -720,67 +720,67 @@
       "text": "Jakie wartości Tobą kierują?",
       "answers": [
         {
-          "text": "Lojalność wobec twoich najbliższych i kontaktów.",
+          "text": "Lojalność wobec najbliższych.",
           "characterClass": "nomada"
         },
         {
-          "text": "Ciekawość, która pozwala Ci gromadzić informacje różnej natury.",
+          "text": "Ciekawość, która pozwala gromadzić wszelakie informacje.",
           "characterClass": "fixer"
         },
         {
-          "text": "Pragnienie wolności, spotęgowane przez zanikającą autonomię w mieście.",
+          "text": "Pragnienie wolności, potęgowane przez zanikającą w mieście autonomię.",
           "characterClass": "nomada"
         },
         {
-          "text": "Interesowność - nie jesteś bezduszną osobą, ale chcesz przeżyć.",
+          "text": "Interesowność. Nie jestem bezduszny, ale chcę przeżyć.",
           "characterClass": "fixer"
         }
       ]
     },
     {
-      "text": "Jak wyglądałaby zawieszka przy Twojej torbie?",
+      "text": "Jaka zawieszka znalazłaby się przy Twojej torbie?",
       "answers": [
         {
-          "text": "Pluszowy lis – tak jak ty, potrafi być bezwzględny i sprytny.",
+          "text": "Metalowy lis – chłodny i przebiegły.",
           "characterClass": "korpo"
         },
         {
-          "text": "Igła i nić w ozdobnym pudełeczku – jesteś osobą gotową naprawić każdą sytuację.",
+          "text": "Igła i nić w ozdobnym pudełeczku – naprawisz każdą sytuację.",
           "characterClass": "fixer"
         },
         {
-          "text": "Droga błyskotka z Jinguji, dowód Twojej pierwszej wypłaty i nowej pozycji w hierarchii.",
+          "text": "Droga błyskotka z Jinguji - dowód Twojej pierwszej wypłaty i pozycji w hierarchii.",
           "characterClass": "korpo"
         },
         {
-          "text": "Przy Twojej torbie wiszą wyłącznie klucze – skuteczne, użyteczne i otwierają wiele drzwi.",
+          "text": "Przy Twojej torbie wiszą wyłącznie klucze – skuteczne i użyteczne.",
           "characterClass": "fixer"
         }
       ]
     },
     {
-      "text": "Która czcionka do Ciebie przemawia:",
+      "text": "Która czcionka do Ciebie przemawia?",
       "answers": [
         {
-          "text": "Times New Roman – elegancka, ale także o silnym przekazie.",
+          "text": "Times New Roman – elegancki, o silnym przekazie.",
           "characterClass": "reporter"
         },
         {
-          "text": "Comic Sans – być może wiele osób nie jest w stanie Ciebie znieść, ale przynajmniej ten ostracyzm społeczny przychodzi z wolnością.",
+          "text": "Comic Sans – odrzucenie społeczne potrafi być wyzwalające.",
           "characterClass": "nomada"
         },
         {
-          "text": "Arial – neutralna opcja, chcesz po prostu coś przekazać, nie dbając o ozdobniki. Twoja opinia znaczy więcej, niż prezentacja.",
+          "text": "Arial – neutralna opcja, liczy się treść.",
           "characterClass": "reporter"
         },
         {
-          "text": "Helvetica – silna, niezależna czcionka, która swoje piękno czerpie z niezawodności. Cool girl czcionek.",
+          "text": "Helvetica – silna, niezależna. Swoje piękno czerpie z niezawodności.",
           "characterClass": "nomada"
         }
       ]
     },
     {
-      "text": "Z jakim kamieniem najbardziej rezonujesz?",
+      "text": "Który kamień najbardziej Ci się podoba?",
       "answers": [
         {
           "text": "Labradoryt – wzmacnia intuicję, chroni przed złą energią.",

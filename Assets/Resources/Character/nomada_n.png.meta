@@ -116,10 +116,10 @@ TextureImporter:
       name: nomada_n_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 85
         y: 0
-        width: 2348
-        height: 2348
+        width: 2219
+        height: 2249
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

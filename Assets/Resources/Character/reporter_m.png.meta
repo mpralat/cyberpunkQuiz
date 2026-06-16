@@ -116,10 +116,10 @@ TextureImporter:
       name: reporter_m_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 200
         y: 0
-        width: 2048
-        height: 2048
+        width: 1848
+        height: 2038
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

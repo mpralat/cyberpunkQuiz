@@ -153,8 +153,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -477.0529, y: -1.8900306}
-  m_SizeDelta: {x: 900, y: 900}
+  m_AnchoredPosition: {x: -431.50327, y: -47.95143}
+  m_SizeDelta: {x: 1004.2429, y: 1004.2429}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &33599854
 MonoBehaviour:
@@ -375,8 +375,8 @@ MonoBehaviour:
   m_text: "Mo\u017Ce pomog\u0119 w dekoracjach. M\xF3j ogr\xF3d jest pe\u0142en pi\u0119knych
     ro\u015Blin, kt\xF3re mog\u0119 wykorzysta\u0107 do przygotowania ozd\xF3b."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 848241e687ea38245a3b0533373804a3, type: 2}
-  m_sharedMaterial: {fileID: 3000944026634409382, guid: 848241e687ea38245a3b0533373804a3, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -400,7 +400,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 44.75
+  m_fontSize: 41.3
   m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -695,8 +695,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u017Be\u0144sk\u0105"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 848241e687ea38245a3b0533373804a3, type: 2}
-  m_sharedMaterial: {fileID: 3000944026634409382, guid: 848241e687ea38245a3b0533373804a3, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -806,7 +806,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 562, y: 648}
+  m_AnchoredPosition: {x: 503, y: 661}
   m_SizeDelta: {x: 116.6605, y: 147.2295}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &366525733
@@ -831,8 +831,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: :D
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 848241e687ea38245a3b0533373804a3, type: 2}
-  m_sharedMaterial: {fileID: 3000944026634409382, guid: 848241e687ea38245a3b0533373804a3, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -894,7 +894,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -391.42838, y: -109.51805, z: -281.65582, w: -514.8863}
+  m_margin: {x: -391.42838, y: -109.51805, z: -384.0555, w: -609.0942}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -967,7 +967,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3192133289119773823, guid: d18e123bf039c41519a01eb76eeeadd0, type: 3}
+  m_Sprite: {fileID: -6311352213680616822, guid: 1c5b245f611244fbca7fb53990b5d09d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1286,8 +1286,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "M\u0119sk\u0105"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 848241e687ea38245a3b0533373804a3, type: 2}
-  m_sharedMaterial: {fileID: 3000944026634409382, guid: 848241e687ea38245a3b0533373804a3, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1560,8 +1560,8 @@ MonoBehaviour:
   m_text: "Mo\u017Ce pomog\u0119 w dekoracjach. M\xF3j ogr\xF3d jest pe\u0142en pi\u0119knych
     ro\u015Blin, kt\xF3re mog\u0119 wykorzysta\u0107 do przygotowania ozd\xF3b."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 848241e687ea38245a3b0533373804a3, type: 2}
-  m_sharedMaterial: {fileID: 3000944026634409382, guid: 848241e687ea38245a3b0533373804a3, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1585,7 +1585,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 44.75
+  m_fontSize: 41.3
   m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1980,8 +1980,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -477.05298, y: 0}
-  m_SizeDelta: {x: 900, y: 900}
+  m_AnchoredPosition: {x: -432.87, y: -44.1797}
+  m_SizeDelta: {x: 1012.5, y: 1012.4822}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &697861593
 MonoBehaviour:
@@ -2080,8 +2080,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Jestem osob\u0105 niebinarn\u0105"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 848241e687ea38245a3b0533373804a3, type: 2}
-  m_sharedMaterial: {fileID: 3000944026634409382, guid: 848241e687ea38245a3b0533373804a3, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2217,8 +2217,8 @@ MonoBehaviour:
   m_text: "Z jak\u0105 p\u0142ci\u0105 si\u0119 identyfikujesz? Pytanie wp\u0142ywa
     wy\u0142\u0105cznie na grafik\u0119 ko\u0144cow\u0105."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 848241e687ea38245a3b0533373804a3, type: 2}
-  m_sharedMaterial: {fileID: 3000944026634409382, guid: 848241e687ea38245a3b0533373804a3, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2242,7 +2242,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 64.8
+  m_fontSize: 61.55
   m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2584,7 +2584,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 450, y: 180}
+  m_AnchoredPosition: {x: 450, y: 173}
   m_SizeDelta: {x: 1739.1576, y: -355.55334}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &903260727
@@ -2641,9 +2641,9 @@ MonoBehaviour:
     m_Left: 0
     m_Right: 0
     m_Top: 0
-    m_Bottom: 0
+    m_Bottom: 30
   m_ChildAlignment: 4
-  m_Spacing: 30
+  m_Spacing: 100
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
   m_ChildControlWidth: 0
@@ -3412,8 +3412,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Twoim wynikiem: \n jest'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 848241e687ea38245a3b0533373804a3, type: 2}
-  m_sharedMaterial: {fileID: 3000944026634409382, guid: 848241e687ea38245a3b0533373804a3, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3437,7 +3437,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
+  m_fontSize: 71.2
   m_fontSizeBase: 100
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3760,8 +3760,8 @@ MonoBehaviour:
   m_text: "Mo\u017Ce pomog\u0119 w dekoracjach. M\xF3j ogr\xF3d jest pe\u0142en pi\u0119knych
     ro\u015Blin, kt\xF3re mog\u0119 wykorzysta\u0107 do przygotowania ozd\xF3b."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 848241e687ea38245a3b0533373804a3, type: 2}
-  m_sharedMaterial: {fileID: 3000944026634409382, guid: 848241e687ea38245a3b0533373804a3, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3785,7 +3785,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 44
+  m_fontSize: 41.3
   m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3897,8 +3897,8 @@ MonoBehaviour:
   m_text: "Mo\u017Ce pomog\u0119 w dekoracjach. M\xF3j ogr\xF3d jest pe\u0142en pi\u0119knych
     ro\u015Blin, kt\xF3re mog\u0119 wykorzysta\u0107 do przygotowania ozd\xF3b."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 848241e687ea38245a3b0533373804a3, type: 2}
-  m_sharedMaterial: {fileID: 3000944026634409382, guid: 848241e687ea38245a3b0533373804a3, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3922,7 +3922,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 44.75
+  m_fontSize: 41.3
   m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -4154,8 +4154,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Pytanie 1
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 848241e687ea38245a3b0533373804a3, type: 2}
-  m_sharedMaterial: {fileID: 3000944026634409382, guid: 848241e687ea38245a3b0533373804a3, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
+  m_sharedMaterial: {fileID: 7619577606423690786, guid: 0ae2bff441482ba41a34b3b132eb7eea, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4265,8 +4265,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -479.00003, y: -1}
-  m_SizeDelta: {x: 900, y: 900}
+  m_AnchoredPosition: {x: -433.8127, y: -46.187317}
+  m_SizeDelta: {x: 1016.0195, y: 1016.0195}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1974398780
 MonoBehaviour:
@@ -4749,7 +4749,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -1.9050293, y: -6.9999695}
+  m_AnchoredPosition: {x: -1.9050293, y: -7}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2147457613

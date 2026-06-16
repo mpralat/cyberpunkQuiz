@@ -1,13 +1,16 @@
 fileFormatVersion: 2
-guid: 74c86e3e7bd154726a4c30215fdb856e
+guid: 30f4eb0be706d4de7baeb4a0095c9060
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6102784081713246577
-    second: ripperdoc_f_0
+      213: -1076067161283903116
+    second: korpo_k_0
   - first:
-      213: 1394266399860863454
-    second: ripperdoc_f_1
+      213: 915242184519037099
+    second: korpo_k_1
+  - first:
+      213: 4942660693137340239
+    second: korpo_k_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ripperdoc_f_0
+      name: korpo_k_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2025
-        height: 2018
+        x: 531
+        y: 1703
+        width: 16
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f8ec29c263e8e4ba0800000000000000
-      internalID: -6102784081713246577
+      spriteID: 471c5393e9a0111f0800000000000000
+      internalID: -1076067161283903116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ripperdoc_f_1
+      name: korpo_k_1
       rect:
         serializedVersion: 2
-        x: 962
-        y: 1970
-        width: 48
-        height: 54
+        x: 534
+        y: 1697
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +156,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed138fd47ed695310800000000000000
-      internalID: 1394266399860863454
+      spriteID: ba0b5bbeae793bc00800000000000000
+      internalID: 915242184519037099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korpo_k_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 1753
+        height: 1678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47bcbb86bbd79440800000000000000
+      internalID: 4942660693137340239
       vertices: []
       indices: 
       edges: []
@@ -173,8 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ripperdoc_f_0: -6102784081713246577
-      ripperdoc_f_1: 1394266399860863454
+      korpo_k_0: -1076067161283903116
+      korpo_k_1: 915242184519037099
+      korpo_k_2: 4942660693137340239
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
