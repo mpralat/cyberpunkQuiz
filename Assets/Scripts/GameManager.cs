@@ -83,6 +83,7 @@ public class GameManager : MonoBehaviour
 		GenderQuestionPanel.SetActive(false);
         resultPanel.SetActive(false);
         resultImage.enabled = true;
+		Frame.enabled = false;
         SpiritDescription.enabled = false;
         ShowDescription = false;
 
@@ -278,6 +279,7 @@ public class GameManager : MonoBehaviour
         Debug.Log("ShowResult");
         MainPanel.SetActive(false);
     	GenderQuestionPanel.SetActive(false);
+		Frame.enabled = true;
 		
         CharacterClass resultCharacterClass = scoreManager.CurrentCharacterClass;
         resultPanel.SetActive(true);

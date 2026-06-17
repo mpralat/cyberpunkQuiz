@@ -3,42 +3,42 @@
     {
       "Name": "Nomada",
       "Class": "nomada",
-      "Description": "Wolny duch. Nie zostajesz w jednym miejscu na długo, jedziesz tam, gdzie poniosą cię koła twojej zaufanej maszyny. Czasem podejmiesz się pracy przewoźnika, przemytnika lub mechanika, ale prędzej czy później wzywa cię droga. Daleko ci jednak do samotnego wilka – każdy nomada ma swoją rodzinę. Choć niekoniecznie musi łączyć was krew, skoczylibyście za siebie w ogień. Twój dom nie ma stałego adresu, jest tam, gdzie warkot silnika, bezkres drogi i twoi ludzi."
+      "Description": "Wolny duch. Nie zostajesz w jednym miejscu na długo, jedziesz tam, gdzie poniosą cię koła Twojej zaufanej maszyny. Czasem podejmiesz się pracy przewoźnika, przemytnika lub mechanika, ale prędzej czy później wzywa Cię droga. Daleko Ci jednak do samotnego wilka – każdy nomada ma swoją rodzinę. Choć niekoniecznie muszą łączyć was więzy krwi, skoczylibyście za sobą w ogień. Twój dom nie ma stałego adresu. Jest tam, gdzie warkot silnika, bezkres drogi i Twoi ludzie."
     },
     {
       "Name": "Fixer",
       "Class": "fixer",
-      "Description": "Pośrednik. Gdy ludzie mówią, że znają kogoś, kto zna kogoś, mają na myśli ciebie. Fixerzy to układ nerwowy dla organizmu jakim jest świat ulicznych najemników. Żaden kontrakt nie będzie miał miejsca bez ciebie. Dobierasz klientów i… wykonawców tak, by rezultat był satysfakcjonujący dla obu stron. Rzadkie wszczepy? Eskorta dla gwiazdy? Pozbycie się nieznośnego gangusa? Jesteś w stanie załatwić to wszystko kilkoma telefonami. Za drobną opłatą oczywiście."
+      "Description": "Pośrednik. Gdy ludzie mówią, że znają kogoś, kto zna kogoś, mają na myśli Ciebie. Fixerzy to układ nerwowy dla organizmu, jakim jest świat ulicznych najemników. Żaden kontrakt nie będzie miał miejsca bez Twojej wiedzy. Dobierasz klientów i wykonawców tak, by rezultat był satysfakcjonujący dla obu stron. Rzadkie wszczepy? Eskorta dla gwiazdy? Pozbycie się nieznośnego gangusa? Załatwisz to wszystko zaledwie kilkoma telefonami. Za drobną opłatą oczywiście."
     },
     {
       "Name": "Rocker",
       "Class": "rocker",
-      "Description": "Najbardziej charyzmatyczna klasa w Cyberpunku. Jesteś prawdziwym artystą. Spełniasz się jako muzyk, malarz, poeta, model, tancerz… Jest z czego wybierać, a cokolwiek wybierzesz, robisz to najlepiej a twoi fani Cię podziwiają! Jako wolna dusza nienawidzisz korporacji i buntujesz się przeciw wszystkim którzy mówią Ci co masz robić. Za to ty? Prawdziwy lider z ogromną grupą wielbicieli na każde twoje zawołanie."
+      "Description": "Najbardziej charyzmatyczna klasa w Cyberpunku. Jesteś prawdziwym artystą. Spełniasz się jako muzyk, malarz, poeta, model, tancerz - jest z czego wybierać, a czegokolwiek się nie podejmiesz, robisz to najlepiej i zdobywasz uznanie fanów. Jako wolna dusza nienawidzisz korporacji i buntujesz się przeciw wszystkim którzy mówią Ci, co masz robić."
     },
     {
       "Name": "Korpo",
       "Class": "korpo",
-      "Description": "Kierownik, dyrektor, członek rady nadzorczej. Niektórzy nazwaliby cię korposzczurem i oskarżyli o lizanie butów cesarzowi Araski. Ci ludzie to leniwi ignoranci. Ty masz ambicje, które pchają cię w górę korporacyjnej drabiny. Stawka rośnie, im wyżej jesteś i nie cofniesz się przed niczym, żeby ją zgarnąć. Zarządzanie ludźmi masz we krwi, a praca w twoim zespole idzie jak w zegarku. W końcu firma akceptuje jedynie perfekcję."
+      "Description": "Kierownik, dyrektor, członek rady nadzorczej. Niektórzy nazwaliby cię korposzczurem i oskarżyli o lizanie butów cesarzowi Arasaki - ignoranci bez ambicji. Rosnąca stawka napełnia Cię adrenaliną, nie cofniesz się przed niczym. Zarządzanie ludźmi masz we krwi, a praca w Twoim zespole idzie jak w zegarku. W końcu firma akceptuje jedynie perfekcję."
     },
     {
       "Name": "Solo",
       "Class": "solo",
-      "Description": "Mięśnie operacji, chodząca broń. Jesteś niemal żywcem wyciągnięty z filmów akcji. Bardzo dobrze zbudowany, wysportowany. Zarówno twoje ciało jak i umysł pełne jest blizn z przeszłości - wojna, gangi, trudne dzieciństwo. Twoje życie nie było proste a to odbija się na tobie echem, jesteś wycofany, chłodny, a twoim najbliższym przyjacielem jest twoja spluwa bo to ona Cię na pewno nigdy Cię nie zawiedzie."
+      "Description": "Mięśnie operacji, chodząca broń. Jesteś niczym żywcem wyciągnięty z filmów akcji, jednak zarówno twoje ciało, jak i umysł, pełne są blizn z przeszłości - wojna, gangi, trudne dzieciństwo. Jesteś przez to wycofany i chłodny, a Twoim najbliższym przyjacielem jest spluwa, która nigdy Cię nie zawiedzie."
     },
     {
       "Name": "Ripperdoc",
       "Class": "ripperdoc",
-      "Description": "Złota rączka. W Night City ciężko znaleźć kogokolwiek bez wszczepów, a o wszystkie modyfikacje trzeba zadbać. Klasyczny majster ewoluował i poza warsztatem z samochodami i naprawianiem zlewu, montuje mniej lub bardziej legalne cyborgizacje i skleja swoich klientów kiedy coś pójdzie nie po ich myśli."
+      "Description": "Złota rączka. Cyborgizacja Night City wciąż postępuje, a o wszystkie modyfikacje trzeba przecież dbać. Klasyczny majster ewoluował i poza naprawianiem zlewu czy samochodów, montuje mniej lub bardziej legalne wszczepy, skleja swoich klientów kiedy coś pójdzie nie tak lub rozkłada swoich przeciwników na czynniki pierwsze."
     },
     {
       "Name": "Netrunner",
       "Class": "netrunner",
-      "Description": "Technik informatyk Night City. Jesteś ekspertem od wszystkiego cyfrowego, a w sieci czujesz się jak ryba w wodzie. Potrafisz zhackować największe korporacje i kontrolować każdy komputer, elektronikę czy oprogramowanie. Rzadko działasz jednak sam - kozak w necie, w świecie będziesz raczej potrzebował wsparcia silniejszych od siebie."
+      "Description": "Technik informatyk Night City. Jesteś ekspertem od wszystkiego, co cyfrowe, a w sieci czujesz się jak ryba w wodzie. Potrafisz zhackować największe korporacje, ale rzadko działasz sam - kozak w necie, w świecie... będziesz raczej potrzebował wsparcia silniejszych od siebie."
     },
     {
       "Name": "Reporter",
       "Class": "reporter",
-      "Description": "Wojownik prawdy. To ty wyciągasz korporacyjne przekręty na światło dzienne. Masz oczy i uszy w całym Night City, a czasem samodzielnie wyciągasz dowody z teczek z napisem “ściśle tajne”. Jeśli jest ktoś, kogo korposi siedzący w fortecach z betonu i szkła powinni się obawiać, to jesteś to właśnie ty. W końcu pióro silniejsze jest od miecza… albo od karabinów korporacyjnych bojówek, jak wolisz."
+      "Description": "Wojownik prawdy. To ty wyciągasz korporacyjne przekręty na światło dzienne. Masz oczy i uszy w całym Night City, a czasem samodzielnie wyrywasz dowody z teczek z napisem “ściśle tajne”. Powinni się Ciebie obawiać. W końcu pióro silniejsze jest od miecza… albo od karabinów korposiarskich bojówek, jak wolisz."
     }
   ]
 }
